@@ -1,0 +1,304 @@
+# Translation of Plugins - WP Mail SMTP Plugin &#8211; Mail Bank - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - WP Mail SMTP Plugin &#8211; Mail Bank - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-31 14:10:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WP Mail SMTP Plugin &#8211; Mail Bank - Development (trunk)\n"
+
+#: includes/translations.php:110
+msgid "Notifications"
+msgstr "Meldingen"
+
+#: includes/translations.php:67
+msgid "Activation, Deactivation and Uninstall"
+msgstr "Activeren, deactiveren en verwijderen"
+
+#: views/wizard/wizard.php:81
+msgid "Name and Email Address"
+msgstr "Naam en e-mailadres"
+
+#: views/wizard/wizard.php:80
+msgid "User Details"
+msgstr "Gebruikersdetails"
+
+#: lib/dashboard-widget.php:232
+msgid "Email Configuration"
+msgstr "E-mail configuratie"
+
+#: lib/dashboard-widget.php:230
+msgid "is configured"
+msgstr "is geconfigureerd"
+
+#: includes/translations.php:282
+msgid "Email Status"
+msgstr "E-mail status"
+
+#: includes/translations.php:281
+msgid "Sending Test Email to"
+msgstr "Versturen van testbericht aan"
+
+#: includes/translations.php:277
+msgid "A Subscriber Role can do the following"
+msgstr "Een abonnee kan het volgende"
+
+#: includes/translations.php:276
+msgid "Only users with these capabilities can access Mail Bank"
+msgstr "Andere gebruikers met deze mogelijkheden hebben toegang tot Mail Bank"
+
+#: includes/translations.php:266
+msgid "Full Control"
+msgstr "Volledige toegang"
+
+#: includes/translations.php:262
+msgid "Show Mail Bank Top Bar Menu"
+msgstr "Toon Mail Bank in top menubalk"
+
+#: includes/translations.php:261
+msgid "Others"
+msgstr "Overigen"
+
+#: includes/translations.php:260
+msgid "Subscriber"
+msgstr "Abonnee"
+
+#: includes/translations.php:259
+msgid "Contributor"
+msgstr "Schrijver"
+
+#: includes/translations.php:258
+msgid "Editor"
+msgstr "Redacteur"
+
+#: includes/translations.php:257
+msgid "Author"
+msgstr "Auteur"
+
+#: includes/translations.php:256
+msgid "Administrator"
+msgstr "Beheerder"
+
+#: includes/translations.php:254
+msgid "Show Mail Bank Menu"
+msgstr "Toon Mail Bank menu"
+
+#: includes/translations.php:246
+msgid "Debug Mode"
+msgstr "Foutopsporing modus"
+
+#: includes/translations.php:244
+msgid "Automatic Plugin Updates"
+msgstr "Automatische plugin updates"
+
+#: includes/translations.php:231
+msgid "From"
+msgstr "Van"
+
+#: includes/translations.php:288
+msgid "Status"
+msgstr "Status"
+
+#: includes/translations.php:230
+msgid "Date/Time"
+msgstr "Datum/Tijd"
+
+#: includes/translations.php:229
+msgid "Email Sent To"
+msgstr "E-mail verzonden aan"
+
+#: includes/translations.php:227
+msgid "Email Details"
+msgstr "E-mail details"
+
+#: includes/translations.php:135
+msgid "Action"
+msgstr "Actie"
+
+#: includes/translations.php:226
+msgid "Email To"
+msgstr "E-mail aan"
+
+#: includes/translations.php:225
+msgid "Apply"
+msgstr "Toepassen"
+
+#: includes/translations.php:223
+msgid "Bulk Action"
+msgstr "Massa actie"
+
+#: includes/translations.php:214
+msgid "End Date"
+msgstr "Einddatum"
+
+#: includes/translations.php:211
+msgid "Start Date"
+msgstr "Startdatum"
+
+#: includes/translations.php:194
+msgid "Reply To"
+msgstr "Antwoorden naar"
+
+#: includes/translations.php:192
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#: includes/translations.php:188
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#: includes/translations.php:182
+msgid "Please copy this Redirect URI and Paste into Redirect URI field when creating your app"
+msgstr "Kopieer en plak deze doorstuur URI in het Doorstuur URI veld bij het aanmaken van je app"
+
+#: includes/translations.php:181
+msgid "Redirect URI"
+msgstr "Doorstuur URI"
+
+#: includes/translations.php:179
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: includes/translations.php:177
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: includes/translations.php:171
+msgid "Checking your settings"
+msgstr "Controleren van je instellingen"
+
+#: includes/translations.php:169
+msgid "Email Content"
+msgstr "E-mail inhoud"
+
+#: includes/translations.php:157
+msgid "Use The PHP mail() Function"
+msgstr "Gebruik de PHP mail() functie"
+
+#: includes/translations.php:154
+msgid "Send Email via SMTP"
+msgstr "Verstuur email met SMTP"
+
+#: includes/translations.php:137
+msgid "Previous Step"
+msgstr "Vorige stap"
+
+#: includes/translations.php:136
+msgid "Next Step"
+msgstr "Volgende stap"
+
+#: includes/translations.php:133
+msgid "Save Settings"
+msgstr "Instellingen opslaan"
+
+#: includes/translations.php:128
+msgid "You don't have Sufficient Access to this Page. Kindly contact the Administrator for more Privileges"
+msgstr "Je heb niet voldoende rechten om deze pagina te bekijken. Vraag je beheerder om meer rechten"
+
+#: lib/dashboard-widget.php:237 includes/translations.php:218
+msgid "Not Sent"
+msgstr "Niet verzonden"
+
+#: lib/dashboard-widget.php:236 includes/translations.php:217
+msgid "Sent"
+msgstr "Verzonden"
+
+#: includes/translations.php:123
+msgid "The OAuth is not supported by providing SMTP Host, kindly provide username and password"
+msgstr "De OAuth is niet beschikbaar bij de invoerde SMTP host. Voer de gebruikersnaam en wachtwoord in"
+
+#: includes/translations.php:119
+msgid "Test Email was not sent!"
+msgstr "Test e-mail is niet verzonden"
+
+#: includes/translations.php:118
+msgid "Test Email was sent Successfully!"
+msgstr "Test e-mail is verzonden"
+
+#: includes/translations.php:112
+msgid "System Information"
+msgstr "Systeem informatie"
+
+#: includes/translations.php:111
+msgid "Roles & Capabilities"
+msgstr "Rollen en opties"
+
+#: lib/dashboard-widget.php:232
+msgid "Email Logs"
+msgstr "E-mail logs"
+
+#: includes/translations.php:102
+msgid "Confirm"
+msgstr "Bevestigen"
+
+#: includes/translations.php:101
+msgid "Account Setup"
+msgstr "Account instellingen"
+
+#: includes/translations.php:100
+msgid "Basic Info"
+msgstr "Basis informatie"
+
+#. Author of the plugin
+msgid "Tech Banker"
+msgstr "Tech Banker"
+
+#: includes/translations.php:172
+msgid "Result"
+msgstr "Resultaat"
+
+#: includes/translations.php:173
+msgid "Send Another Test Email"
+msgstr "Verstuur nog een test e-mail"
+
+#: includes/translations.php:134
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: includes/translations.php:289
+msgid "Authentication"
+msgstr "Authenticatie"
+
+#: includes/translations.php:161
+msgid "Encryption"
+msgstr "Versleuteling"
+
+#: includes/translations.php:159
+msgid "SMTP Port"
+msgstr "SMTP-poort"
+
+#: includes/translations.php:292
+msgid "SMTP Host"
+msgstr "SMTP-host"
+
+#: includes/translations.php:151
+msgid "From Email"
+msgstr "Afzender e-mail"
+
+#: includes/translations.php:150
+msgid "From Name"
+msgstr "Afzender naam"
+
+#: includes/translations.php:116
+msgid "Success!"
+msgstr "Gelukt!"
+
+#: wp-mail-bank.php:1179
+msgid "Name"
+msgstr "Naam"
+
+#: includes/translations.php:130
+msgid "Disable"
+msgstr "Uitschakelen"
+
+#: includes/translations.php:129
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: includes/translations.php:108
+msgid "Send Test Email"
+msgstr "Verstuur test e-mail"

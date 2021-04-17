@@ -1,0 +1,1077 @@
+# Translation of Plugins - WP Mail SMTP by Mail Bank - Development (trunk) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - WP Mail SMTP by Mail Bank - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-16 06:55:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - WP Mail SMTP by Mail Bank - Development (trunk)\n"
+
+#. Description of the plugin
+msgid "WP Mail Bank is a WordPress smtp plugin that solves email deliverability issue. Configures Gmail Smtp Settings, OAuth, and any SMTP server."
+msgstr "WP Mail Bank 是一款能解決電子郵件寄送問題的 WordPress SMTP 外掛，可以在外掛內設定 Gmail SMTP、OAuth 及任何 SMTP 伺服器。"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://tech-banker.com/wp-mail-bank/"
+msgstr "https://tech-banker.com/wp-mail-bank/"
+
+#: wp-mail-bank.php:1300
+msgid "Update Database!"
+msgstr "更新網站資料庫"
+
+#: wp-mail-bank.php:1299
+msgid "if you face any issues updating your database."
+msgstr "，任何關於更新網站資料庫的問題均可詢問。"
+
+#: wp-mail-bank.php:1299
+msgid "here"
+msgstr "點擊這裡"
+
+#: wp-mail-bank.php:1299
+msgid "All of your Past Email Reports are safely backed up. Contact Us"
+msgstr "之前的電子郵件報告均已安全備份。如需聯絡我們，請"
+
+#: wp-mail-bank.php:1298
+msgid "We have made imminent changes to our Database to improve the Performance. You would need to update the Database to view prior Email Reports."
+msgstr "我們對我們的資料庫進行了必要的變更以增進效能，網站管理員必須升級資料庫以檢視之前的電子郵件報告。"
+
+#: wp-mail-bank.php:1297
+msgid "Important Announcement - Mail Bank?"
+msgstr "WP Mail Bank 的重要公告"
+
+#: wp-mail-bank.php:1174
+msgid "Submit a Ticket"
+msgstr "提出技術支援需求"
+
+#: wp-mail-bank.php:1156
+msgid "It didn't work as expected."
+msgstr "外掛運作結果不如預期"
+
+#: wp-mail-bank.php:1149
+msgid "If you write about your expectations or experience, we can guarantee a Solution for it would be provided 100% free of cost."
+msgstr "如果願意寫下相關意見或使用經驗，我們保證提供對應、百分之百免費的解決方案。"
+
+#: wp-mail-bank.php:1148
+msgid "Were you expecting something else or Did it fail to work for you?"
+msgstr "是否缺少某些功能，或這個外掛不符預期？"
+
+#: lib/dashboard-widget.php:305
+msgid "This Year"
+msgstr "今年"
+
+#: lib/dashboard-widget.php:292
+msgid "Last Month"
+msgstr "上個月"
+
+#: lib/dashboard-widget.php:279
+msgid "This Month"
+msgstr "本月"
+
+#: lib/dashboard-widget.php:266
+msgid "Last Week"
+msgstr "上週"
+
+#: lib/dashboard-widget.php:253
+msgid "This Week"
+msgstr "本週"
+
+#: lib/dashboard-widget.php:240
+msgid "Today"
+msgstr "今天"
+
+#: includes/translations.php:299
+msgid "API KEY"
+msgstr "API 金鑰"
+
+#: includes/translations.php:297
+msgid "Additional Email Headers"
+msgstr "附加的電子郵件標頭"
+
+#: includes/translations.php:294
+msgid "SMTP Server that you would like to use for a Connectivity Test"
+msgstr "請輸入需要進行連線測試的 SMTP 伺服器名稱"
+
+#: includes/translations.php:250
+msgid "Monitoring Email Reports"
+msgstr "監視電子郵件報告"
+
+#: includes/translations.php:249
+msgid "Do you wish to remove all Database Settings when the Plugin is Deleted?"
+msgstr "是否要在刪除外掛時，一併移除外掛儲存於資料庫中的設定？"
+
+#: includes/translations.php:245
+msgid "Do you wish to Automatically Update the Plugin whenever a New Version is available?"
+msgstr "新版本可供下載安裝時，是否需要自動更新外掛？"
+
+#: includes/translations.php:243
+msgid "28 Days"
+msgstr "28 天"
+
+#: includes/translations.php:242
+msgid "21 Days"
+msgstr "21 天"
+
+#: includes/translations.php:241
+msgid "14 Days"
+msgstr "14 天"
+
+#: includes/translations.php:240
+msgid "7 Days"
+msgstr "7 天"
+
+#: includes/translations.php:239
+msgid "1 Day"
+msgstr "1 天"
+
+#: includes/translations.php:238
+msgid "Email Reports would be removed automatically after the above specified days"
+msgstr "每隔上方設定的天數後，便會自動刪除電子郵件報告"
+
+#: includes/translations.php:237
+msgid "Delete Email Reports of"
+msgstr "刪除電子郵件報告:"
+
+#: includes/translations.php:236
+msgid "Do you want to Clear Email Reports Automatically?"
+msgstr "是否要自動清除電子郵件報告？"
+
+#: includes/translations.php:235
+msgid "Auto Clear Email Reports"
+msgstr "自動清除電子郵件報告"
+
+#: includes/translations.php:232
+msgid "Back to Email Reports"
+msgstr "返回 [電子郵件報告]"
+
+#: includes/translations.php:222
+msgid "Filter"
+msgstr "篩選"
+
+#: includes/translations.php:221
+msgid "Date till where you would like to see Email Reports"
+msgstr "要檢視的電子郵件報告的結束日期"
+
+#: includes/translations.php:219
+msgid "Status of Reports to view"
+msgstr "可供檢視的報告狀態"
+
+#: includes/translations.php:216
+msgid "Number of Reports to view"
+msgstr "可供檢視的報告數量"
+
+#: includes/translations.php:215
+msgid "Total Reports"
+msgstr "報告數量"
+
+#: includes/translations.php:213
+msgid "Date from where you would like to see Email Reports"
+msgstr "要檢視的電子郵件報告的開始日期"
+
+#: includes/translations.php:193
+msgid "The email address used for sending emails. If you are using an email provider (Gmail, Yahoo, Outlook, etc), this should be your email address for that account"
+msgstr "用於傳送電子郵件的電子郵件地址。如果使用如 Gmail、Yahoo 或 Outlook 等電子郵件服務提供商的服務，這個欄位請輸入對應帳號的電子郵件地址"
+
+#: includes/translations.php:176
+msgid "Override From Email Field"
+msgstr "覆寫 [寄件者電子郵件地址] 欄位"
+
+#: includes/translations.php:175
+msgid "Do you want to use this Option for all emails, ignoring values set by other plugins"
+msgstr "是否需在全部電子郵件使用這項設定，並忽略由其他外掛產生的設定值"
+
+#: includes/translations.php:174
+msgid "Override From Name Field"
+msgstr "覆寫 [寄件者名稱] 欄位"
+
+#: includes/translations.php:162
+msgid "Encrypt the email using different methods when sent to the email server"
+msgstr "傳送至電子郵件伺服器時使用不同方法加密電子郵件"
+
+#: includes/translations.php:156
+msgid "Get SendGrid API Key"
+msgstr "取得 SendGrid API 金鑰"
+
+#: includes/translations.php:153
+msgid "A program that will be used to transmit all your emails"
+msgstr "用於傳送網站全部電子郵件的程式"
+
+#: includes/translations.php:152
+msgid "Mailer"
+msgstr "郵件程式"
+
+#: includes/translations.php:146
+msgid "In this field, you need to provide SendGrid API Key"
+msgstr "請在這個欄位輸入 SendGrid API 金鑰"
+
+#: includes/translations.php:144
+msgid "In this field, you would need to provide Mailgun domain name"
+msgstr "請在這個欄位輸入 Mailgun 網域名稱"
+
+#: includes/translations.php:143
+msgid "Domain Name"
+msgstr "網域名稱"
+
+#: includes/translations.php:142
+msgid "In this field, you would need to provide Mailgun API Key"
+msgstr "請在這個欄位輸入 Mailgun API 金鑰"
+
+#: includes/translations.php:141
+msgid "Get Mailgun API Key"
+msgstr "取得 Mailgun API 金鑰"
+
+#: includes/translations.php:132
+msgid "No"
+msgstr "否"
+
+#: includes/translations.php:131
+msgid "Yes"
+msgstr "是"
+
+#: includes/translations.php:125
+msgid "Unfortunately, Your Email has not been Sent"
+msgstr "很抱歉，這個網站的電子郵件未傳送"
+
+#: includes/translations.php:124
+msgid "Resent Successfully!"
+msgstr "已成功重新傳送。"
+
+#: includes/translations.php:122
+msgid "Deleted Successfully!"
+msgstr "已成功刪除。"
+
+#: includes/translations.php:121
+msgid "Are You Sure?"
+msgstr "確定要進行這項操作？"
+
+#: includes/translations.php:120
+msgid "Please choose to proceed!"
+msgstr "請完成選取以繼續！"
+
+#: includes/translations.php:117
+msgid "Settings Saved!"
+msgstr "設定已儲存！"
+
+#: includes/translations.php:113
+msgid "Upgrade Now"
+msgstr "立即升級"
+
+#: includes/translations.php:109
+msgid "General Settings"
+msgstr "主要設定"
+
+#: includes/translations.php:107
+msgid "Email Reports"
+msgstr "電子郵件報告"
+
+#: includes/translations.php:106
+msgid "Setup Wizard"
+msgstr "設定小幫手"
+
+#: includes/translations.php:99
+msgid "Last Name"
+msgstr "姓氏"
+
+#: includes/translations.php:98
+msgid "First Name"
+msgstr "名字"
+
+#: includes/translations.php:89
+msgid "Slack WebHook"
+msgstr "Slack Webhook"
+
+#: includes/translations.php:88
+msgid "Pushover App Token"
+msgstr "Pushover 應用程式權杖 (App Token)"
+
+#: includes/translations.php:87
+msgid "Pushover User Key"
+msgstr "Pushover 使用者金鑰 (User Key)"
+
+#: includes/translations.php:86
+msgid "Slack"
+msgstr "Slack"
+
+#: includes/translations.php:85
+msgid "Push Over"
+msgstr "Pushover"
+
+#: includes/translations.php:84 wp-mail-bank.php:1185
+msgid "Email"
+msgstr "電子郵件"
+
+#: includes/translations.php:83
+msgid "Select the notification service you want to recieve alerts about failed emails"
+msgstr "選取接收寄件失敗訊息的通知服務"
+
+#: includes/translations.php:82
+msgid "Notification Services"
+msgstr "通知服務"
+
+#: includes/translations.php:80
+msgid "More Options Available with Pro!"
+msgstr "Pro 版提供更多功能！"
+
+#: includes/translations.php:79
+msgid "Copied"
+msgstr "已複製"
+
+#: includes/translations.php:76
+msgid "Conditions"
+msgstr "條件"
+
+#: includes/translations.php:75
+msgid "Terms"
+msgstr "條款"
+
+#: includes/translations.php:74
+msgid "Continue"
+msgstr "繼續"
+
+#: includes/translations.php:73
+msgid "Opt-In"
+msgstr "加入"
+
+#: includes/translations.php:72
+msgid "Skip"
+msgstr "略過"
+
+#: includes/translations.php:71
+msgid "Newsletter"
+msgstr "電子報"
+
+#: includes/translations.php:69
+msgid "Updates, Announcements, Marketing, No Spam"
+msgstr "升級、公告、行銷、不會傳送垃圾郵件"
+
+#: includes/translations.php:66
+msgid "Current Plugin Events"
+msgstr "目前外掛的活動"
+
+#: includes/translations.php:62
+msgid "Name & Email to receive Notifications / Announcements / Special Offers"
+msgstr "接收通知/公告/特別優惠的電子郵件地址"
+
+#: includes/translations.php:60
+msgid "Don't ever miss an opportunity to opt-in for Email Notifications / Announcements and Special Offers"
+msgstr "不要錯過加入電子郵件通知/公告及特別優惠的機會。"
+
+#: includes/translations.php:56
+msgid "Leave Us a 5 Star Review"
+msgstr "撰寫 5 星好評"
+
+#: includes/translations.php:55
+msgid "Contact 24/7 Support"
+msgstr "聯絡 24/7 技術支援"
+
+#: includes/translations.php:54
+msgid "Follows Us on Twitter"
+msgstr "在 Twitter 上跟隨我們"
+
+#: includes/translations.php:53
+msgid "Follow Us on Our Facebook Page"
+msgstr "加入我們的 Facebook 粉絲專頁"
+
+#: includes/translations.php:52
+msgid "Join Our Facebook VIP Group"
+msgstr "加入我們的 Facebook VIP 群組"
+
+#: includes/translations.php:51
+msgid "How to setup Mailgun SMTP?"
+msgstr "Mailgun SMTP 的設定方式"
+
+#: includes/translations.php:50
+msgid "How to setup SendGrid SMTP?"
+msgstr "SendGrid SMTP 的設定方式"
+
+#: includes/translations.php:49
+msgid "How to setup Yahoo SMTP?"
+msgstr "Yahoo SMTP 的設定方式"
+
+#: includes/translations.php:48
+msgid "How to setup Office 365 SMTP?"
+msgstr "Office 365 SMTP 的設定方式"
+
+#: includes/translations.php:47
+msgid "How to setup Gmail/Google SMTP?"
+msgstr "Gmail/Google SMTP 的設定方式"
+
+#: includes/translations.php:46
+msgid "Join Our Community"
+msgstr "加入我們的社群"
+
+#: includes/translations.php:45
+msgid "Setup Guide"
+msgstr "設定指南"
+
+#: includes/translations.php:42 wp-mail-bank.php:961
+msgid "Leave a 5 Star Review"
+msgstr "撰寫 5 星好評"
+
+#: includes/translations.php:41 wp-mail-bank.php:959
+msgid "Your 5 Star Review will Boost our Morale by 10x!"
+msgstr "大家的 5 星好評能夠大幅提昇我們的士氣。"
+
+#: includes/translations.php:40 wp-mail-bank.php:958
+msgid "We are grateful that you’ve decided to join the Tech Banker Family and we are putting maximum efforts to provide you with the Best Product."
+msgstr "非常感謝你決定加入 Tech Banker 的大家庭，我們會盡力為大家提供最棒的產品。"
+
+#: includes/translations.php:39
+msgid "Become part of the Tech Banker VIP Community on Facebook. You will get access to the latest beta releases, get help with issues or simply meet like-minded people"
+msgstr "請在 Facebook 上加入 Tech Banker VIP 社群，成為其中的一份子，便能取得最新的 Beta 測試版發佈資訊，獲得相關問題的協助或找到更多志同道合的朋友。"
+
+#: includes/translations.php:38
+msgid "Leave my Review »"
+msgstr "撰寫使用者評論 »"
+
+#: includes/translations.php:37
+msgid "Join the Group"
+msgstr "加入社團"
+
+#: includes/translations.php:36
+msgid "Upgrade To Premium »"
+msgstr "升級至付費版 »"
+
+#: includes/translations.php:35
+msgid "24/7 Technical Support"
+msgstr "24/7 技術支援"
+
+#: includes/translations.php:34
+msgid "Email Reports Filtering"
+msgstr "電子郵件篩選功能"
+
+#: includes/translations.php:33
+msgid "Detailed Email Reports"
+msgstr "詳細電子郵件報告"
+
+#: includes/translations.php:32
+msgid "Advanced Email Fields"
+msgstr "進階電子郵件欄位"
+
+#: includes/translations.php:31
+msgid "Learn More »"
+msgstr "進一步瞭解 »"
+
+#: includes/translations.php:59
+msgid "Hi!"
+msgstr "你好！"
+
+#: includes/translations.php:95
+msgid "Network Site"
+msgstr "多站網路網站"
+
+#: includes/translations.php:94
+msgid "Individual Site"
+msgstr "獨立網站"
+
+#: includes/translations.php:93
+msgid "Choose options for Fetch Settings"
+msgstr "選取擷取設定的選項"
+
+#: includes/translations.php:92
+msgid "Fetch Settings"
+msgstr "擷取設定"
+
+#: includes/translations.php:208
+msgid "How to setup?"
+msgstr "設定方式"
+
+#: includes/translations.php:207
+msgid "Get API Key"
+msgstr "取得 API 金鑰"
+
+#: wp-mail-bank.php:1268
+msgid "Deactivate"
+msgstr "停用"
+
+#: wp-mail-bank.php:1168
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr "正在為相關問題進行偵錯，僅是暫時停用"
+
+#: wp-mail-bank.php:1162
+msgid "I found a Better Plugin."
+msgstr "找到更適合的外掛"
+
+#: includes/translations.php:81
+msgid "Leave A Review For Mail Bank!"
+msgstr "為 WP Mail Bank 撰寫使用者評論"
+
+#: views/wizard/wizard.php:145
+msgid "Privacy Policy"
+msgstr "隱私權政策"
+
+#: includes/translations.php:70
+msgid "Site URL, WP Version, PHP Info, Plugins &amp; Themes Info"
+msgstr "網站網址、WordPress 版本、PHP 資訊、外掛及佈景主題資訊"
+
+#: includes/translations.php:68
+msgid "Website Overview"
+msgstr "網站概觀"
+
+#: includes/translations.php:110
+msgid "Notifications"
+msgstr "通知"
+
+#: includes/translations.php:67
+msgid "Activation, Deactivation and Uninstall"
+msgstr "啟用、停用及解除安裝"
+
+#: views/wizard/wizard.php:81
+msgid "Name and Email Address"
+msgstr "全名及電子郵件地址"
+
+#: views/wizard/wizard.php:80
+msgid "User Details"
+msgstr "使用者詳細資料"
+
+#: includes/translations.php:65
+msgid "What permissions are being granted"
+msgstr "如果加入，需要授予哪些權限"
+
+#: includes/translations.php:64
+msgid "Mail Bank will still work fine"
+msgstr "WP Mail Bank 仍能正確執行"
+
+#: includes/translations.php:63
+msgid "If you're not ready to Opt-In, that's ok too"
+msgstr "如果尚未準備加入，也沒問題"
+
+#: includes/translations.php:61
+msgid "Contribute to making our plugin compatible with most plugins and themes by allowing to share non-sensitive diagnostic information about your website"
+msgstr "透過開放分享這個網站的非敏感性診斷資訊，便能讓我們的外掛與大多數外掛及佈景主題相容。"
+
+#: lib/dashboard-widget.php:232
+msgid "Email Configuration"
+msgstr "電子郵件組態"
+
+#: lib/dashboard-widget.php:203
+msgid "using"
+msgstr "並採用"
+
+#: lib/dashboard-widget.php:202
+msgid "to"
+msgstr "方式傳送至"
+
+#: lib/dashboard-widget.php:231
+msgid "will send mail through "
+msgstr "傳送電子郵件採用 "
+
+#: lib/dashboard-widget.php:230
+msgid "is configured"
+msgstr "已完成組態"
+
+#: includes/translations.php:298
+msgid "You also can insert additional headers in this optional field in order to include in your email"
+msgstr "如有需要，在這個欄位輸入的附加標頭，會插入網站傳送的電子郵件中"
+
+#: includes/translations.php:278
+msgid "Choose what pages would be visible to the users having Subscriber Access"
+msgstr "選取具備 [訂閱者] 權限的使用者可以看到哪些頁面"
+
+#: includes/translations.php:274
+msgid "Choose what pages would be visible to the users having Others Role Access"
+msgstr "選取具備 [其他人員] 權限的使用者可以看到哪些頁面"
+
+#: includes/translations.php:272
+msgid "Choose what pages would be visible to the users having Contributor Access"
+msgstr "選取具備 [訂閱者] 權限的使用者可以看到哪些頁面"
+
+#: includes/translations.php:270
+msgid "Choose what pages would be visible to the users having Editor Access"
+msgstr "選取具備 [編輯] 權限的使用者可以看到哪些頁面"
+
+#: includes/translations.php:268
+msgid "Choose what pages would be visible to the users having Author Access"
+msgstr "選取具備 [作者] 權限的使用者可以看到哪些頁面"
+
+#: includes/translations.php:265
+msgid "Choose what pages would be visible to the users having Administrator Access"
+msgstr "選取具備 [網站管理員] 權限的使用者可以看到哪些頁面"
+
+#: includes/translations.php:263
+msgid "Do you want to show Mail Bank menu in Top Bar?"
+msgstr "是否要將 WP Mail Bank 選單顯示於頂端列？"
+
+#: includes/translations.php:255
+msgid "Choose among the following roles who would be able to see the Mail Bank Menu?"
+msgstr "選取可以檢視 WP Mail Bank 選單的使用者角色。"
+
+#: includes/translations.php:251
+msgid "Do you want to monitor your all Outgoing Emails?"
+msgstr "使否需要監視這個網站的全部外寄電子郵件？"
+
+#: includes/translations.php:248
+msgid "Remove Database at Uninstall"
+msgstr "外掛解除安裝時移除對應的資料庫資料"
+
+#: includes/translations.php:247
+msgid "Do you want to see Debugging Output for your emails?"
+msgstr "是否要檢視網站電子郵件的偵錯輸出資料？"
+
+#: includes/translations.php:228
+msgid "Debug Output"
+msgstr "偵錯輸出資料"
+
+#: includes/translations.php:195
+msgid "A valid Email Address that will be used in the 'Reply-To' field of the email"
+msgstr "用於 [回覆至] 欄位的有效電子郵件地址"
+
+#: includes/translations.php:190
+msgid "Secret Key issued by your SMTP Host"
+msgstr "SMTP 主機核發的秘密金鑰"
+
+#: includes/translations.php:189
+msgid "Client ID issued by your SMTP Host"
+msgstr "SMTP 主機核發的用戶端 ID"
+
+#: includes/translations.php:180
+msgid "Password is typically the same as the password to retrieve the email"
+msgstr "用於擷取電子郵件的密碼"
+
+#: includes/translations.php:178
+msgid "Login is typically the full email address (Example: mailbox@yourdomain.com)"
+msgstr "用於登入的完整電子郵件地址 (範例: mailbox@yourdomain.com)"
+
+#: includes/translations.php:170
+msgid "Email Content for your Test Email"
+msgstr "測試用電子郵件的內容"
+
+#: includes/translations.php:168
+msgid "Subject Line for your Test Email"
+msgstr "測試用電子郵件的主旨"
+
+#: includes/translations.php:167
+msgid "An Email Address to which you would like to send a Test Email"
+msgstr "用於傳送測試用電子郵件的收件者電子郵件地址"
+
+#: includes/translations.php:166
+msgid "Method for authentication (almost always Login)"
+msgstr "驗證方法 (幾乎等同永久登入)"
+
+#: includes/translations.php:160
+msgid "Port to connect to the email server"
+msgstr "用於連結電子郵件伺服器通訊埠"
+
+#: includes/translations.php:158
+msgid "Server that will send the email"
+msgstr "傳送電子郵件的伺服器"
+
+#: includes/translations.php:149
+msgid "A valid Email Address that will be used in the 'BCC' field of the email. Use Comma ',' for including multiple email addresses in the 'BCC' field"
+msgstr "用於 [密件副本] 欄位的有效電子郵件地址。請使用逗號以分隔多個電子郵件地址"
+
+#: includes/translations.php:148
+msgid "A valid Email Address that will be used in the 'CC' field of the email. Use Comma ',' for including multiple email addresses in the 'CC' field"
+msgstr "用於 [副本] 欄位的有效電子郵件地址。請使用逗號以分隔多個電子郵件地址"
+
+#: includes/translations.php:206
+msgid "Ask them to enable the mail() function to start sending emails."
+msgstr "要求他們啟用 mail() 函式以開始傳送電子郵件。"
+
+#: includes/translations.php:205
+msgid "Your Web Host provider may have blocked the use of mail() function on your server."
+msgstr "這個網站的主機託管服務提供商封鎖了這台伺服器的 mail() 函式使用權限。"
+
+#: includes/translations.php:204
+msgid "It seems like they are blocking certain traffic. Ask them to open the ports."
+msgstr "目前的狀況應是他們封鎖了特定流量，請要求他們開啟對應的通訊埠。"
+
+#: includes/translations.php:203
+msgid "Contact the admin of the server and ask if they allow outgoing communication on port 25,465,587."
+msgstr "請聯絡網站伺服器管理員，並要求他們開放外寄通訊使用的通訊埠 25、443 及 587。"
+
+#: includes/translations.php:202
+msgid "Your Web Host provider may have installed a firewall between you and the server."
+msgstr "網站主機託管服務提供商已安裝了阻隔網站及電子郵件伺服器間通訊的防火牆。"
+
+#: includes/translations.php:201
+msgid "Your host has likely installed a firewall (REJECT packets) between you and the server. Ask them to open the ports."
+msgstr "網站主機已安裝了阻隔網站及電子郵件伺服器間通訊的防火牆 (拒絕封包)。請要求他們開啟必要的通訊埠。"
+
+#: includes/translations.php:200
+msgid "Your host may have tried to (incorrectly) use TLS over port 465. Check your encryption and port settings."
+msgstr "這個網站嘗試在通訊埠 465 使用 TLS。請檢查加密方式及通訊埠設定。"
+
+#: includes/translations.php:199
+msgid "Your host may have installed a firewall (DROP packets) between you and the server. Ask them to open the ports."
+msgstr "網站主機已安裝了阻隔網站及電子郵件伺服器間通訊的防火牆 (丟棄封包)。請要求他們開啟必要的通訊埠。"
+
+#: includes/translations.php:198
+msgid "Your host may have poor connectivity to the mail server. Try doubling the Read Timeout."
+msgstr "網站主機與電子郵件伺服器間通訊狀況不佳。請嘗試加長讀取逾時設定。"
+
+#: includes/translations.php:197
+msgid "You may have tried to (incorrectly) use SSL over port 587. Check your encryption and port settings."
+msgstr "這個網站嘗試在通訊埠 587 使用 SSL。請檢查加密方式及通訊埠設定。"
+
+#: includes/translations.php:196
+msgid "Your host may have installed a firewall between you and the server. Ask them to open the ports."
+msgstr "網站主機已安裝了阻隔網站及電子郵件伺服器間通訊的防火牆。請要求他們開啟必要的通訊埠。"
+
+#: includes/translations.php:155
+msgid "Mailgun API"
+msgstr "Mailgun API"
+
+#: includes/translations.php:212
+msgid "Resend Email"
+msgstr "重新傳送電子郵件"
+
+#: includes/translations.php:145
+msgid "SendGrid API"
+msgstr "SendGrid API"
+
+#: wp-mail-bank.php:957
+msgid "Maybe Later"
+msgstr "稍後再說"
+
+#: wp-mail-bank.php:956
+msgid "I've already left a review"
+msgstr "已發佈過評論"
+
+#: wp-mail-bank.php:955
+msgid "Sure! I'd love to!"
+msgstr "我願意撰寫評論"
+
+#: lib/dashboard-widget.php:319
+msgid "Upgrade Now to Premium Editions"
+msgstr "立即升級至付費版本"
+
+#. Plugin Name of the plugin
+msgid "WP Mail SMTP Plugin by Mail Bank"
+msgstr "WP Mail SMTP Plugin by Mail Bank"
+
+#: includes/translations.php:293
+msgid "Begin Test"
+msgstr "開始測試"
+
+#: includes/translations.php:291
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/translations.php:287
+msgid "Socket"
+msgstr "通訊端"
+
+#: includes/translations.php:286
+msgid "Transport"
+msgstr "傳輸方式"
+
+#: includes/translations.php:285
+msgid "Connectivity Test"
+msgstr "連線測試"
+
+#: includes/translations.php:224
+msgid "Delete"
+msgstr "刪除"
+
+#: includes/translations.php:282
+msgid "Email Status"
+msgstr "電子郵件狀態"
+
+#: includes/translations.php:281
+msgid "Sending Test Email to"
+msgstr "正在傳送測試用電子郵件至"
+
+#: includes/translations.php:277
+msgid "A Subscriber Role can do the following"
+msgstr "[訂閱者] 使用者角色能執行下列項目"
+
+#: includes/translations.php:276
+msgid "Only users with these capabilities can access Mail Bank"
+msgstr "僅有授予權限的使用者才能存取 WP Mail Bank"
+
+#: includes/translations.php:275
+msgid "Please tick the appropriate capabilities for security purposes"
+msgstr "基於安全性考量，請選取適當的權限"
+
+#: includes/translations.php:273
+msgid "Other Roles can do the following"
+msgstr "[其他人員] 使用者角色能執行下列項目"
+
+#: includes/translations.php:271
+msgid "A Contributor Role can do the following"
+msgstr "[訂閱者] 使用者角色能執行下列項目"
+
+#: includes/translations.php:269
+msgid "An Editor Role can do the following"
+msgstr "[編輯] 使用者角色能執行下列項目"
+
+#: includes/translations.php:267
+msgid "An Author Role can do the following"
+msgstr "[作者] 使用者角色能執行下列項目"
+
+#: includes/translations.php:266
+msgid "Full Control"
+msgstr "完全控制"
+
+#: includes/translations.php:264
+msgid "An Administrator Role can do the following"
+msgstr "[網站管理員] 使用者角色能執行下列項目"
+
+#: includes/translations.php:262
+msgid "Show Mail Bank Top Bar Menu"
+msgstr "顯示 WP Mail Bank 頂端列選單"
+
+#: includes/translations.php:261
+msgid "Others"
+msgstr "其他人員"
+
+#: includes/translations.php:260
+msgid "Subscriber"
+msgstr "訂閱者"
+
+#: includes/translations.php:259
+msgid "Contributor"
+msgstr "投稿者"
+
+#: includes/translations.php:258
+msgid "Editor"
+msgstr "編輯"
+
+#: includes/translations.php:257
+msgid "Author"
+msgstr "作者"
+
+#: includes/translations.php:256
+msgid "Administrator"
+msgstr "網站管理員"
+
+#: includes/translations.php:254
+msgid "Show Mail Bank Menu"
+msgstr "顯示 WP Mail Bank 選單"
+
+#: includes/translations.php:246
+msgid "Debug Mode"
+msgstr "偵錯模式"
+
+#: includes/translations.php:244
+msgid "Automatic Plugin Updates"
+msgstr "外掛自動更新"
+
+#: includes/translations.php:231
+msgid "From"
+msgstr "寄件者電子郵件地址"
+
+#: includes/translations.php:288
+msgid "Status"
+msgstr "狀態"
+
+#: includes/translations.php:230
+msgid "Date/Time"
+msgstr "日期/時間"
+
+#: includes/translations.php:229
+msgid "Email Sent To"
+msgstr "電子郵件已傳送至"
+
+#: includes/translations.php:227
+msgid "Email Details"
+msgstr "電子郵件詳細資料"
+
+#: includes/translations.php:135
+msgid "Action"
+msgstr "操作"
+
+#: includes/translations.php:226
+msgid "Email To"
+msgstr "收件者電子郵件地址"
+
+#: includes/translations.php:225
+msgid "Apply"
+msgstr "套用"
+
+#: includes/translations.php:223
+msgid "Bulk Action"
+msgstr "批次操作"
+
+#: includes/translations.php:214
+msgid "End Date"
+msgstr "結束日期"
+
+#: includes/translations.php:211
+msgid "Start Date"
+msgstr "開始日期"
+
+#: includes/translations.php:194
+msgid "Reply To"
+msgstr "回覆至"
+
+#: includes/translations.php:192
+msgid "Email Address"
+msgstr "電子郵件地址"
+
+#: includes/translations.php:191
+msgid "Yes, send a Test Email upon clicking on the Next Step Button to verify Settings"
+msgstr "是！點擊 [下一步] 按鈕便傳送測試用電子郵件以驗證設定"
+
+#: includes/translations.php:188
+msgid "Secret Key"
+msgstr "秘密金鑰"
+
+#: includes/translations.php:187
+msgid "Client ID"
+msgstr "用戶端 ID"
+
+#: includes/translations.php:182
+msgid "Please copy this Redirect URI and Paste into Redirect URI field when creating your app"
+msgstr "請在建立專屬應用程式時，在其 [重新導向 URI] 欄位貼上這個重新導向 URI"
+
+#: includes/translations.php:181
+msgid "Redirect URI"
+msgstr "重新導向 URI"
+
+#: includes/translations.php:179
+msgid "Password"
+msgstr "密碼"
+
+#: includes/translations.php:177
+msgid "Username"
+msgstr "使用者名稱"
+
+#: includes/translations.php:171
+msgid "Checking your settings"
+msgstr "正在檢查相關設定"
+
+#: includes/translations.php:169
+msgid "Email Content"
+msgstr "電子郵件內容"
+
+#: includes/translations.php:157
+msgid "Use The PHP mail() Function"
+msgstr "使用 PHP 的 mail() 函式"
+
+#: includes/translations.php:154
+msgid "Send Email via SMTP"
+msgstr "使用 SMTP 通訊協定傳送電子郵件"
+
+#: includes/translations.php:137
+msgid "Previous Step"
+msgstr "上一步"
+
+#: includes/translations.php:136
+msgid "Next Step"
+msgstr "下一步"
+
+#: includes/translations.php:133
+msgid "Save Settings"
+msgstr "儲存設定"
+
+#: includes/translations.php:128
+msgid "You don't have Sufficient Access to this Page. Kindly contact the Administrator for more Privileges"
+msgstr "目前的登入身分沒有存取這個頁面的權限。請聯絡網站管理員以取得必要的權限"
+
+#: lib/dashboard-widget.php:237 includes/translations.php:218
+msgid "Not Sent"
+msgstr "未傳送"
+
+#: lib/dashboard-widget.php:236 includes/translations.php:217
+msgid "Sent"
+msgstr "已傳送"
+
+#: includes/translations.php:123
+msgid "The OAuth is not supported by providing SMTP Host, kindly provide username and password"
+msgstr "目前使用的 SMTP 主機不支援 OAuth，請提供使用者名稱及密碼"
+
+#: includes/translations.php:119
+msgid "Test Email was not sent!"
+msgstr "測試用電子郵件未傳送。"
+
+#: includes/translations.php:118
+msgid "Test Email was sent Successfully!"
+msgstr "測試用電子郵件已成功傳送。"
+
+#: includes/translations.php:112
+msgid "System Information"
+msgstr "系統資訊"
+
+#: includes/translations.php:111
+msgid "Roles & Capabilities"
+msgstr "使用者角色及權限"
+
+#: wp-mail-bank.php:1191
+msgid "Feedback"
+msgstr "意見反應"
+
+#: lib/dashboard-widget.php:232
+msgid "Email Logs"
+msgstr "電子郵件記錄"
+
+#: includes/translations.php:102
+msgid "Confirm"
+msgstr "確認"
+
+#: includes/translations.php:101
+msgid "Account Setup"
+msgstr "帳號設定"
+
+#: includes/translations.php:100
+msgid "Basic Info"
+msgstr "基本資訊"
+
+#: includes/translations.php:28
+msgid "This feature is available only in Pro Edition. Kindly Purchase to unlock it!"
+msgstr "這項功能僅供 Pro 版使用，購買使用授權便能獲得。"
+
+#. Author of the plugin
+msgid "Tech Banker"
+msgstr "Tech Banker"
+
+#: includes/translations.php:172
+msgid "Result"
+msgstr "結果"
+
+#: includes/translations.php:173
+msgid "Send Another Test Email"
+msgstr "傳送另一封測試用電子郵件"
+
+#: includes/translations.php:134
+msgid "Subject"
+msgstr "主旨"
+
+#: includes/translations.php:289
+msgid "Authentication"
+msgstr "驗證"
+
+#: includes/translations.php:161
+msgid "Encryption"
+msgstr "加密方式"
+
+#: includes/translations.php:159
+msgid "SMTP Port"
+msgstr "SMTP 通訊埠"
+
+#: includes/translations.php:292
+msgid "SMTP Host"
+msgstr "SMTP 伺服器"
+
+#: includes/translations.php:151
+msgid "From Email"
+msgstr "寄件者電子郵件地址"
+
+#: includes/translations.php:150
+msgid "From Name"
+msgstr "寄件者名稱"
+
+#: includes/translations.php:116
+msgid "Success!"
+msgstr "大功告成！"
+
+#: wp-mail-bank.php:1179
+msgid "Name"
+msgstr "全名"
+
+#: includes/translations.php:130
+msgid "Disable"
+msgstr "停用"
+
+#: includes/translations.php:129
+msgid "Enable"
+msgstr "啟用"
+
+#: includes/translations.php:108
+msgid "Send Test Email"
+msgstr "傳送測試用電子郵件"

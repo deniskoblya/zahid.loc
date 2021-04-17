@@ -1,0 +1,105 @@
+# Translation of Plugins - Simple Custom Post Order - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Simple Custom Post Order - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-07 13:15:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Simple Custom Post Order - Stable (latest release)\n"
+
+#: class-simple-review.php:17
+msgid "Don't show again"
+msgstr "Visa inte igen"
+
+#: class-simple-review.php:16
+msgid "Remind me later"
+msgstr "Påminn mig senare"
+
+#: class-simple-review.php:15
+msgid "Rate the plugin"
+msgstr "Betygsätt tillägget"
+
+#: settings.php:306
+msgid "Check to reset order of Post Types"
+msgstr "Kryssa i för att återställa sorteringen av inläggstyper"
+
+#: settings.php:285
+msgid "NOTICE: This is for advanced users only."
+msgstr "OBS: Detta är endast för avancerade användare."
+
+#: settings.php:283
+msgid "Show advanced view of Post Types"
+msgstr "Visa avancerad vy av inläggstyper"
+
+#: settings.php:264
+msgid "Check to see advanced view of Post Types "
+msgstr "Kryssa i för att se avancerad vy av inläggstyper"
+
+#: settings.php:287
+msgid "Check to include other custom post types. You will need to update your settings after enabling this option."
+msgstr "Kryssa i för att inkludera andra anpassade inläggstyper. Du måste uppdatera dina inställningar efter du har aktiverat detta alternativ."
+
+#. Author URI of the plugin
+msgid "https://colorlib.com/"
+msgstr "https://colorlib.com/"
+
+#. Author of the plugin
+msgid "Colorlib"
+msgstr "Colorlib"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins-wp/simple-custom-post-order/"
+msgstr "https://wordpress.org/plugins-wp/simple-custom-post-order/"
+
+#. Plugin Name of the plugin
+#: simple-custom-post-order.php:136
+msgid "Simple Custom Post Order"
+msgstr "Simple Custom Post Order"
+
+#: settings.php:296
+msgid "Update"
+msgstr "Uppdatera"
+
+#: simple-custom-post-order.php:141
+msgid "Dismiss this notice."
+msgstr "Avfärda denna notis."
+
+#: simple-custom-post-order.php:140
+msgid "Get started !"
+msgstr "Kom igång!"
+
+#: settings.php:112
+msgid "Settings Updated."
+msgstr "Inställningar uppdaterade."
+
+#: settings.php:145 settings.php:216
+msgid "Check All"
+msgstr "Kryssa i alla"
+
+#: settings.php:197
+msgid "Check to Sort Taxonomies"
+msgstr "Kryssa i för att sortera taxonomier"
+
+#: settings.php:126
+msgid "Check to Sort Post Types"
+msgstr "Kryssa i för att sortera inläggstyper"
+
+#: settings.php:108
+msgid "Simple Custom Post Order Settings"
+msgstr "Inställningar för Simple Custom Post Order"
+
+#: simple-custom-post-order.php:138
+msgid "Thank you for installing our awesome plugin, in order to enable it you need to go to the settings page and select which custom post or taxonomy you want to order."
+msgstr "Tack för att du installerat vårt fantastiska tillägg, för att aktivera det måste du gå till inställningssidan och välja vilket anpassat inlägg eller taxonomi du vill sortera."
+
+#: simple-custom-post-order.php:190
+msgid "SCPOrder"
+msgstr "SCPOrder"
+
+#. Description of the plugin
+msgid "Order Items (Posts, Pages, and Custom Post Types) using a Drag and Drop Sortable JavaScript."
+msgstr "Sortera objekt (inlägg, sidor och anpassade inläggstyper) med hjälp av en dra och släpp sorterbar JavaScript."

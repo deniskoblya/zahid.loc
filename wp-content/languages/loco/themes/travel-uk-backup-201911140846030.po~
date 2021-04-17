@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Travel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-29 14:00+0000\n"
+"PO-Revision-Date: 2019-10-29 14:00+0000\n"
+"Last-Translator: admin-dev <web.wp.dev.eloper@gmail.com>\n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.4"
+
+#: functions.php:22
+msgid "Top menu"
+msgstr "Верхнє меню"
+
+#: functions.php:23
+msgid "Bottom menu"
+msgstr "Нижнє меню"
+
+#: functions.php:39
+msgid "Room"
+msgstr "Номер"
+
+#: functions.php:47
+msgid "New"
+msgstr "Новини"
+
+#: functions.php:60
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "на"
+
+#: functions.php:118
+msgid "Children"
+msgstr "Діти"
+
+#: functions.php:119
+msgid "Adults"
+msgstr "Дорослі"
+
+#: functions.php:160
+msgid "Previous"
+msgstr "Попередній"
+
+#: functions.php:171
+msgid "Next"
+msgstr "Наступний"
+
+#: functions.php:183 functions.php:184
+msgid "Theme Options"
+msgstr "Параметри теми"
+
+#: functions.php:237
+msgid "Please select number"
+msgstr "Будь-ласка, оберіть номер"
+
+#: functions.php:328 rating.php:26 rating.php:46
+#, php-format
+msgid "%s vote"
+msgid_plural "%s votes"
+msgstr[0] "%s голос"
+msgstr[1] "%s голоси"
+msgstr[2] "%s голосів"
+
+#: sidebar.php:108 sidebar-mobile.php:35
+msgid "Go to section"
+msgstr "ПЕРЕЙТИ В РОЗДІЛ"
+
+#. Name of the template
+msgid "Institution Page"
+msgstr "Institution Page"
+
+#: page-institution.php:51
+msgid "book now"
+msgstr "Забронювати"
+
+#. Name of the template
+msgid "Contact Page"
+msgstr "Contact Page"
+
+#: page.php:71 single-room.php:73
+msgid "Book now"
+msgstr "Забронювати"
+
+#: page.php:80
+msgid "More"
+msgstr "Показати Ще"
+
+#: old-page.php:108
+msgid "To book"
+msgstr "Забронювати"
+
+#: old-page.php:222
+msgid "Point of departure"
+msgstr "Точка відправлення"
+
+#: old-page.php:309
+msgid "Lifecell"
+msgstr "Lifecell"
+
+#: old-page.php:315
+msgid "Kievstar"
+msgstr "Kievstar"
+
+#: old-page.php:321
+msgid "Vodafone"
+msgstr "Vodafone"
+
+#: old-page.php:327
+msgid "Phone"
+msgstr "Телефон"
+
+#: old-page.php:333
+msgid "Skype"
+msgstr "Skype"
+
+#: old-page.php:339
+msgid "Email"
+msgstr "Email"
+
+#: single.php:22
+msgid "Content:"
+msgstr "Вміст:"
+
+#. Name of the template
+msgid "Privacy"
+msgstr "Privacy"
+
+#: index.php:65
+#, php-format
+msgid "Search Results for %s"
+msgstr "Результати пошуку для %s"
+
+#: single-room.php:36
+msgid "Watch the video"
+msgstr "Дивитись відео"
+
+#: template-parts/popups.php:30 template-parts/popups.php:77
+msgid "Thank!"
+msgstr "Дякую!"
+
+#: template-parts/popups.php:32
+msgid "The application is being processed. We will contact you shortly"
+msgstr "Заява обробляється. Ми незабаром зв’яжемося з вами"
+
+#: template-parts/popups.php:79
+msgid "Check your Inbox or Spam for a message containing a confirmation link."
+msgstr ""
+"Перевірте свою папку \"Вхідні\" або \"Спам\" на повідомлення, що містить "
+"посилання для підтвердження."
+
+#: template-parts/social.php:9 template-parts/social.php:10
+msgid "Facebook"
+msgstr "Facebook"
+
+#: template-parts/social.php:15 template-parts/social.php:16
+msgid "Twitter"
+msgstr "Twitter"
+
+#: template-parts/social.php:21 template-parts/social.php:22
+msgid "Google+"
+msgstr "Google+"
+
+#: template-parts/social.php:27 template-parts/social.php:28
+msgid "Youtube"
+msgstr "Youtube"
+
+#: template-parts/social.php:33 template-parts/social.php:34
+msgid "Instagram"
+msgstr "Instagram"
+
+#: functions/schema.php:315
+msgid "Carpathians"
+msgstr "Карпати"
+
+#: functions/schema.php:317
+msgid "Ukraine"
+msgstr "Україна"
+
+#: functions/schema.php:327
+#, php-format
+msgid "%s ratings, average: %s out of 5"
+msgstr "%s оцінок, середній: %s з 5"
+
+#. Name of the theme
+msgid "Travel"
+msgstr "Travel"
+
+#. Author of the theme
+msgid "Аноним"
+msgstr "Аноним"

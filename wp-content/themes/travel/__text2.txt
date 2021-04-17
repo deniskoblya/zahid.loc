@@ -1,0 +1,409 @@
+Array
+(
+    [default_language] => ru
+    [enabled_languages] => Array
+        (
+            [0] => ru
+            [1] => ua
+        )
+
+    [flag_location] => plugins/qtranslate-x/flags/
+    [language_name] => Array
+        (
+            [ru] => Русский
+            [ua] => Українська
+        )
+
+    [locale] => Array
+        (
+            [ru] => ru_RU
+            [ua] => uk
+        )
+
+    [locale_html] => Array
+        (
+            [ru] => 
+            [ua] => 
+        )
+
+    [not_available] => Array
+        (
+            [ru] => Извините, этот техт доступен только в “%LANG:”, “:” и “%”.
+            [ua] => Вибачте цей текст доступний тільки в &ldquo;%LANG:&rdquo;, &ldquo;: і &ldquo;%&rdquo;.
+        )
+
+    [date_format] => Array
+        (
+            [ru] => %A %B %e%q, %Y
+            [ua] => %A %B %e%q, %Y
+        )
+
+    [time_format] => Array
+        (
+            [ru] => %H:%M
+            [ua] => %H:%M
+        )
+
+    [flag] => Array
+        (
+            [ru] => ru.png
+            [ua] => ua.png
+        )
+
+    [url_mode] => 2
+    [use_strftime] => 3
+    [filter_options_mode] => 0
+    [language_name_case] => 0
+    [detect_browser_language] => 
+    [hide_untranslated] => 1
+    [show_displayed_language_prefix] => 
+    [show_alternative_content] => 
+    [hide_default_language] => 1
+    [use_secure_cookie] => 
+    [header_css_on] => 1
+    [header_css] => .qtranxs_flag_ru {background-image: url(https://zahid.travel/wp-content/plugins/qtranslate-x/flags/ru.png); background-repeat: no-repeat;}
+.qtranxs_flag_ua {background-image: url(https://zahid.travel/wp-content/plugins/qtranslate-x/flags/ua.png); background-repeat: no-repeat;}
+    [text_field_filters] => Array
+        (
+        )
+
+    [front_config] => Array
+        (
+            [all-pages] => Array
+                (
+                    [filters] => Array
+                        (
+                            [text] => Array
+                                (
+                                    [widget_title] => 20
+                                    [widget_text] => 20
+                                    [the_title] => 20
+                                    [category_description] => 20
+                                    [list_cats] => 20
+                                    [wp_dropdown_cats] => 20
+                                    [term_name] => 20
+                                    [get_comment_author] => 20
+                                    [the_author] => 20
+                                    [tml_title] => 20
+                                    [term_description] => 20
+                                )
+
+                            [term] => Array
+                                (
+                                    [cat_row] => 0
+                                    [cat_rows] => 0
+                                    [wp_get_object_terms] => 0
+                                    [single_cat_title] => 0
+                                    [single_tag_title] => 0
+                                    [single_term_title] => 0
+                                    [the_category] => 0
+                                    [get_term] => 0
+                                    [get_terms] => 0
+                                    [get_category] => 0
+                                )
+
+                            [url] => Array
+                                (
+                                    [author_feed_link] => 10
+                                    [author_link] => 10
+                                    [get_comment_author_url_link] => 10
+                                    [post_comments_feed_link] => 10
+                                    [day_link] => 10
+                                    [month_link] => 10
+                                    [year_link] => 10
+                                    [page_link] => 10
+                                    [post_link] => 10
+                                    [category_link] => 10
+                                    [category_feed_link] => 10
+                                    [tag_link] => 10
+                                    [term_link] => 10
+                                    [the_permalink] => 10
+                                    [feed_link] => 10
+                                    [tag_feed_link] => 10
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [term_name] => Array
+        (
+            [Sanatories] => Array
+                (
+                    [ru] => Санатории
+                    [ua] => Санаторії
+                    [en] => Sanatories
+                )
+
+            [Hotels] => Array
+                (
+                    [ru] => Готели
+                    [ua] => Готелі
+                    [en] => Hotels
+                )
+
+            [Villas] => Array
+                (
+                    [ru] => Виллы
+                    [ua] => Вілли
+                    [en] => Villas
+                )
+
+            [Hmelnik sanatorium] => Array
+                (
+                    [ru] => Санатории Хмельник
+                    [ua] => Санаторії Змільник
+                    [en] => Hmelnik sanatorium
+                )
+
+            [Trusckavets sanatorium] => Array
+                (
+                    [ru] => Санатории Трускавец
+                    [ua] => Санаторії Трускавець
+                    [en] => Trusckavets sanatorium
+                )
+
+            [Myrgorod sanatorii] => Array
+                (
+                    [ru] => Санатории Миргород
+                    [ua] => Санаторії Миргород
+                    [en] => Myrgorod sanatorii
+                )
+
+            [Sanatorium Shidnutsya] => Array
+                (
+                    [ru] => Санатории Сходница
+                    [ua] => Санаторії Східниця
+                    [en] => Sanatorium Shidnutsya
+                )
+
+            [Санатории Миргородa] => Array
+                (
+                    [ru] => Санатории Миргородa
+                    [ua] => Санаторії Миргород
+                    [en] => Myrgorod sanatorii
+                )
+
+            [Санатории] => Array
+                (
+                    [ru] => Санатории
+                    [ua] => Санаторії
+                )
+
+            [Виллы] => Array
+                (
+                    [ru] => Виллы
+                    [ua] => Вілли
+                )
+
+            [Отели] => Array
+                (
+                    [ru] => Отели
+                    [ua] => Готелі
+                )
+
+            [Санаторій] => Array
+                (
+                    [ru] => Санаторій
+                    [ua] => 
+                )
+
+            [Готель] => Array
+                (
+                    [ru] => Готель
+                    [ua] => 
+                )
+
+            [САНАТОРИИ ТРУСКАВЦА] => Array
+                (
+                    [ru] => САНАТОРИИ ТРУСКАВЦА
+                    [ua] => 
+                )
+
+            [САНАТОРИИ СХОДНИЦЫ] => Array
+                (
+                    [ru] => САНАТОРИИ СХОДНИЦЫ
+                    [ua] => 
+                )
+
+            [САНАТОРИИ ЗАКАРПАТЬЯ] => Array
+                (
+                    [ru] => САНАТОРИИ ЗАКАРПАТЬЯ
+                    [ua] => 
+                )
+
+            [САНАТОРИИ МОРШИНА] => Array
+                (
+                    [ru] => САНАТОРИИ МОРШИНА
+                    [ua] => 
+                )
+
+            [САНАТОРИИ ХМЕЛЬНИКА] => Array
+                (
+                    [ru] => САНАТОРИИ ХМЕЛЬНИКА
+                    [ua] => 
+                )
+
+            [САНАТОРИИ МИРГОРОДА] => Array
+                (
+                    [ru] => САНАТОРИИ МИРГОРОДА
+                    [ua] => 
+                )
+
+            [Без категории] => Array
+                (
+                    [ru] => Без категории
+                    [ua] => Без категорії
+                    [en] => Hotels
+                )
+
+            [Закарпатье] => Array
+                (
+                    [ru] => Закарпатье
+                    [ua] => Закарпаття
+                )
+
+            [Одесса] => Array
+                (
+                    [ru] => Одесса
+                    [ua] => Одеса
+                )
+
+            [Сходница] => Array
+                (
+                    [ru] => Сходница
+                    [ua] => Східниця
+                    [en] => Shidnutsya
+                )
+
+            [Трускавець] => Array
+                (
+                    [ru] => Трускавець
+                    [ua] => Трускавець
+                    [en] => Truckavets
+                )
+
+            [Хмельник] => Array
+                (
+                    [ru] => Хмельник
+                    [ua] => Хмільник
+                )
+
+            [Моршин] => Array
+                (
+                    [ru] => Моршин
+                    [ua] => Моршин
+                )
+
+            [Миргород] => Array
+                (
+                    [ru] => Миргород
+                    [ua] => Миргород
+                )
+
+            [Отели Закарпатья] => Array
+                (
+                    [ru] => Отели Закарпатья
+                    [ua] => Готелі Закарпаття
+                )
+
+            [Отели Трускавца] => Array
+                (
+                    [ru] => Отели Трускавца
+                    [ua] => Готелі Трускавця
+                )
+
+            [Санатории Закарпатья] => Array
+                (
+                    [ru] => Санатории Закарпатья
+                    [ua] => Санаторії Закарпаття
+                )
+
+            [Санатории Миргорода] => Array
+                (
+                    [ru] => Санатории Миргорода
+                    [ua] => Санаторії Миргорода
+                )
+
+            [Санатории Моршина] => Array
+                (
+                    [ru] => Санатории Моршина
+                    [ua] => Санаторії Моршина
+                )
+
+            [Санатории Одессы] => Array
+                (
+                    [ru] => Санатории Одессы
+                    [ua] => Cанаторії Одеси
+                )
+
+            [Санатории Сходницы] => Array
+                (
+                    [ru] => Санатории Сходницы
+                    [ua] => Санаторії Східниці
+                )
+
+            [Санатории Трускавца] => Array
+                (
+                    [ru] => Санатории Трускавца
+                    [ua] => Санаторії Трускавця
+                )
+
+            [Санатории Хмельника] => Array
+                (
+                    [ru] => Санатории Хмельника
+                    [ua] => Санаторії Хмільника
+                )
+
+        )
+
+    [disable_client_cookies] => 
+    [ignore_file_types] => Array
+        (
+            [0] => gif
+            [1] => jpg
+            [2] => jpeg
+            [3] => png
+            [4] => svg
+            [5] => pdf
+            [6] => swf
+            [7] => tif
+            [8] => rar
+            [9] => zip
+            [10] => 7z
+            [11] => mpg
+            [12] => divx
+            [13] => mpeg
+            [14] => avi
+            [15] => css
+            [16] => js
+            [17] => mp3
+            [18] => mp4
+            [19] => apk
+        )
+
+    [url_info] => Array
+        (
+            [cookie_enabled] => 
+            [scheme] => https
+            [host] => zahid.travel
+            [path] => /ua/sanatorij-gornaya-tisa/
+            [original_url] => /ua/sanatorij-gornaya-tisa/
+            [path-base] => 
+            [path-base-length] => 0
+            [doing_front_end] => 1
+            [wp-path] => /sanatorij-gornaya-tisa/
+            [lang_url] => ua
+            [language] => ua
+            [set_cookie] => 1
+        )
+
+    [language] => ua
+    [translator] => QTX_Translator Object
+        (
+        )
+
+    [qtrans_compatibility] => 
+)

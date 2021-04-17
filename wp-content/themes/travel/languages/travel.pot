@@ -1,0 +1,242 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-25 09:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: functions.php:45
+msgid "Top menu"
+msgstr ""
+
+#: functions.php:46
+msgid "Bottom menu"
+msgstr ""
+
+#: functions.php:62
+msgid "Room"
+msgstr ""
+
+#: functions.php:70
+msgid "New"
+msgstr ""
+
+#: functions.php:83
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:141
+msgid "Children"
+msgstr ""
+
+#: functions.php:142
+msgid "Adults"
+msgstr ""
+
+#: functions.php:184
+msgid "Previous"
+msgstr ""
+
+#: functions.php:195
+msgid "Next"
+msgstr ""
+
+#: functions.php:207 functions.php:208
+msgid "Theme Options"
+msgstr ""
+
+#: functions.php:261
+msgid "Please select number"
+msgstr ""
+
+#: functions.php:352 rating.php:26 rating.php:46
+#, php-format
+msgid "%s vote"
+msgid_plural "%s votes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:782 page.php:82 page.php:100 single-room.php:76
+msgid "Book now"
+msgstr ""
+
+# sidebar.php:87
+#: sidebar.php:86
+msgid "Category"
+msgstr ""
+
+#: sidebar.php:160 sidebar-mobile.php:34
+msgid "Go to section"
+msgstr ""
+
+#. Name of the template
+msgid "Main Template AJAX"
+msgstr ""
+
+#. Name of the template
+msgid "Institution Page"
+msgstr ""
+
+#: page-institution.php:51
+msgid "book now"
+msgstr ""
+
+#. Name of the template
+msgid "Contact Page"
+msgstr ""
+
+#: page.php:110 page-main.php:86
+msgid "More"
+msgstr ""
+
+#. Name of the template
+msgid "News"
+msgstr ""
+
+#. Name of the template
+msgid "Main Template Page"
+msgstr ""
+
+#: old-page.php:108
+msgid "To book"
+msgstr ""
+
+#: old-page.php:222
+msgid "Point of departure"
+msgstr ""
+
+#: old-page.php:309
+msgid "Lifecell"
+msgstr ""
+
+#: old-page.php:315
+msgid "Kievstar"
+msgstr ""
+
+#: old-page.php:321
+msgid "Vodafone"
+msgstr ""
+
+#: old-page.php:327
+msgid "Phone"
+msgstr ""
+
+#: old-page.php:333
+msgid "Skype"
+msgstr ""
+
+#: old-page.php:339
+msgid "Email"
+msgstr ""
+
+#: single.php:22
+msgid "Content:"
+msgstr ""
+
+#. Name of the template
+msgid "Privacy"
+msgstr ""
+
+#: index.php:85
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: single-room.php:39
+msgid "Watch the video"
+msgstr ""
+
+#: single-room.php:279
+msgid "Основні місця:"
+msgstr ""
+
+#: single-room.php:282
+msgid "Додаткові місця:"
+msgstr ""
+
+#: single-room.php:285
+msgid "Кімнати:"
+msgstr ""
+
+#: single-room.php:288
+msgid "Комплектація номера:"
+msgstr ""
+
+#: single-room.php:291
+msgid "Санвузол:"
+msgstr ""
+
+#: single-room.php:294
+msgid "Балкон:"
+msgstr ""
+
+#: single-room.php:297
+msgid "Площа номера:"
+msgstr ""
+
+#: single-room.php:300
+msgid "Примітка"
+msgstr ""
+
+#: template-parts/popups.php:9 template-parts/popups.php:56
+msgid "Thank!"
+msgstr ""
+
+#: template-parts/popups.php:11
+msgid "The application is being processed. We will contact you shortly"
+msgstr ""
+
+#: template-parts/popups.php:58
+msgid "Check your Inbox or Spam for a message containing a confirmation link."
+msgstr ""
+
+#: template-parts/social.php:9 template-parts/social.php:10
+msgid "Facebook"
+msgstr ""
+
+#: template-parts/social.php:15 template-parts/social.php:16
+msgid "Twitter"
+msgstr ""
+
+#: template-parts/social.php:21 template-parts/social.php:22
+msgid "Google+"
+msgstr ""
+
+#: template-parts/social.php:27 template-parts/social.php:28
+msgid "Youtube"
+msgstr ""
+
+#: template-parts/social.php:33 template-parts/social.php:34
+msgid "Instagram"
+msgstr ""
+
+#: functions/schema.php:316
+msgid "Carpathians"
+msgstr ""
+
+#: functions/schema.php:318
+msgid "Ukraine"
+msgstr ""
+
+#: functions/schema.php:328
+#, php-format
+msgid "%s ratings, average: %s out of 5"
+msgstr ""
+
+#. Name of the theme
+msgid "Travel"
+msgstr ""
+
+#. Author of the theme
+msgid "Аноним"
+msgstr ""

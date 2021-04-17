@@ -1,0 +1,302 @@
+# Translation of Plugins - Really Simple SSL - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Really Simple SSL - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-23 12:38:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Really Simple SSL - Stable (latest release)\n"
+
+#: class-site-health.php:147
+msgid "301 .htaccess redirect is not enabled."
+msgstr "Η ανακατεύθυνση 301 .htaccess δεν είναι ενεργοποιημένη."
+
+#: class-site-health.php:104
+msgid "You have set a 301 redirect to SSL. This is important for SEO purposes"
+msgstr "Έχετε ορίσει ανακατεύθυνση 301 προς το SSL. Αυτό είναι σημαντικό για λόγους SEO"
+
+#: class-site-health.php:96
+msgid "301 SSL redirect enabled"
+msgstr "Η ανακατεύθυνση 301 SSL ενεργοποιήθηκε"
+
+#: class-admin.php:3674
+msgid "Dismiss all Really Simple SSL notices"
+msgstr "Απόρριψη όλων των ειδοποιήσεων του Really Simple SSL"
+
+#: class-admin.php:2820
+msgid "301 redirect to https set: .htaccess redirect."
+msgstr "Ορίστηκε ανακατεύθυνση 301 σε https: Ανακατεύθυνση .htaccess."
+
+#: class-admin.php:2665
+msgid "The 'force-deactivate.php' file has to be renamed to .txt. Otherwise your ssl can be deactivated by anyone on the internet."
+msgstr "Το αρχείο «force-deactivate.php» πρέπει να μετονομαστεί σε .txt. Διαφορετικά, το SSL σας θα μπορεί να απενεργοποιηθεί από οποιονδήποτε στο Διαδίκτυο."
+
+#: class-multisite.php:1005
+msgid "If the conversion does not proceed after a few minutes, click %shere%s to force the conversion process."
+msgstr "Εάν η μετατροπή δεν προχωρήσει μετά από μερικά λεπτά, πατήστε %sεδώ%s για εξαναγκασμένη διαδικασία μετατροπής."
+
+#: multisite-cron.php:11
+msgid "Once every minute"
+msgstr "Μία φορά ανά λεπτό"
+
+#: class-multisite.php:1003
+msgid "Conversion of websites %s percent complete."
+msgstr "Η μετατροπή των ιστοτόπων έχει ολοκληρωθεί κατά %s τοις εκατό."
+
+#: class-admin.php:2324
+msgid "Maybe later"
+msgstr "Ίσως αργότερα"
+
+#: class-admin.php:2323
+msgid "Leave a review"
+msgstr "Αφήστε μια κριτική"
+
+#: class-admin.php:2317
+msgid "Hi, Really Simple SSL has kept your site secure for a month now, awesome! If you have a moment, please consider leaving a review on WordPress.org to spread the word. We greatly appreciate it! If you have any questions or feedback, leave us a %smessage%s."
+msgstr "Γεια! Χρησιμοποιείτε το Really Simple SSL για έναν μήνα. Καταπληκτικό! Αν έχετε λίγο χρόνο, σκεφτείτε να αφήσετε μια κριτική στο WordPress.org για να το διαδώσετε. Το εκτιμούμε ιδιαίτερα! Εάν έχετε ερωτήσεις ή σχόλια, αφήστε μας ένα %sμήνυμα%s."
+
+#: class-multisite.php:158
+msgid "This leads to issues when activating SSL networkwide since subdomains will be forced over SSL as well while they don't have a valid certificate."
+msgstr "Αυτό οδηγεί σε προβλήματα όταν ενεργοποιείτε το SSL σε όλο το δίκτυο καθώς και τα subdomain θα εξαναγκάζονται σε SSL ενώ δεν έχουν έγκυρο πιστοποιητικό."
+
+#: class-multisite.php:159
+msgid "Activate SSL per site or install a wildcard certificate to fix this."
+msgstr "Ενεργοποιήστε το SSL ξεχωριστά σε κάθε ιστότοπο ή εγκαταστήστε ένα πιστοποιητικό wildcard για να το επιλύσετε."
+
+#: class-multisite.php:157
+msgid "You run a Multisite installation with subdomains, but your site doesn't have a wildcard certificate."
+msgstr "Έχετε μια εγκατάσταση πολλαπλών ιστοτόπων με subdomain, αλλά ο ιστότοπός σας δεν έχει πιστοποιητικό wildcard."
+
+#: class-admin.php:4029
+msgid "Cancel"
+msgstr "Άκυρο"
+
+#: class-admin.php:4014
+msgid "Deactivating the plugin while keeping SSL will do the following:"
+msgstr "Η απενεργοποίηση του πρόσθετου με διατήρηση του SSL θα προκαλέσει τα ακόλουθα:"
+
+#: class-admin.php:3996
+msgid "Are you sure?"
+msgstr "Είστε σίγουροι;"
+
+#: class-admin.php:3562
+msgid "More info"
+msgstr "Περισσότερες πληροφορίες"
+
+#: class-admin.php:113
+msgid "Really Simple SSL and Really Simple SSL add-ons do not process any personal identifiable information, so the GDPR does not apply to these plugins or usage of these plugins on your website. You can find our privacy policy <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Το Really Simple SSL και τα πρόσθετα του Really Simple SSL δεν επεξεργάζονται καμία πληροφορία προσωπικών δεδομένων, οπότε το GDPR δεν ισχύει για αυτά τα πρόσθετα ή τη χρήση αυτών των προσθέτων στον ιστότοπό σας. Μπορείτε να βρείτε την Πολιτική Απορρήτου μας <a href=\"%s\" target=\"_blank\">εδώ</a>."
+
+#. Author URI of the plugin
+msgid "https://really-simple-plugins.com"
+msgstr "https://really-simple-plugins.com"
+
+#: class-admin.php:513
+msgid "You can also let the automatic scan of the pro version handle this for you, and get premium support, increased security with HSTS and more!"
+msgstr "Μπορείτε επίσης να αφήσετε την αυτόματη σάρωση της έκδοσης Pro να το αναλάβει αυτό για εσάς, και να αποκτήσετε υποστήριξη με προτεραιότητα, αυξημένη ασφάλεια με HSTS και ακόμα περισσότερα!"
+
+#: class-multisite.php:429
+msgid "Options saved."
+msgstr "Οι επιλογές αποθηκεύτηκαν."
+
+#: class-multisite.php:355
+msgid "networkwide"
+msgstr "σε όλο το δίκτυο"
+
+#: class-multisite.php:336
+msgid "Select to enable SSL networkwide or per site."
+msgstr "Επιλέξτε αν θέλετε να ενεργοποιήσετε το SSL σε όλο το δίκτυο ή ανά ιστότοπο."
+
+#: class-multisite.php:337
+msgid "Enable SSL"
+msgstr "Ενεργοποίηση SSL"
+
+#: class-admin.php:3781 class-admin.php:3811 class-admin.php:4052
+msgid "This option is enabled on the network menu."
+msgstr "Η επιλογή είναι ενεργοποιημένη στο μενού δικτύου."
+
+#: class-multisite.php:356
+msgid "per site"
+msgstr "ανά ιστότοπο"
+
+#: class-admin.php:508
+msgid "You may need to login in again."
+msgstr "Ίσως χρειαστεί να συνδεθείτε ξανά."
+
+#: class-admin.php:3657 class-site-health.php:155
+msgid "Enable 301 .htaccess redirect"
+msgstr "Ενεργοποίηση ανακατεύθυνσης 301 μέσω .htaccess"
+
+#: class-admin.php:2808
+msgid "No 301 redirect is set. Enable the WordPress 301 redirect in the settings to get a 301 permanent redirect."
+msgstr "Δεν έχει οριστεί ανακατεύθυνση 301. Ενεργοποιήστε την ανακατεύθυνση WordPress 301 στις ρυθμίσεις για να έχετε μια μόνιμη ανακατεύθυνση 301."
+
+#: class-admin.php:2832
+msgid "Enable a .htaccess redirect or WordPress redirect in the settings to create a 301 redirect."
+msgstr "Ενεργοποιήστε μια ανακατεύθυνση .htaccess ή ανακατεύθυνση WordPress στις ρυθμίσεις για να δημιουργήσετε μια ανακατεύθυνση 301."
+
+#: class-admin.php:3646
+msgid "In most cases you need to leave this enabled, to prevent mixed content issues on your site."
+msgstr "Στις περισσότερες περιπτώσεις πρέπει να το αφήσετε ενεργοποιημένο, για την αποφυγή προβλημάτων μικτού περιεχομένου στον ιστότοπό σας."
+
+#: class-admin.php:3663
+msgid "If you want to customize the Really Simple SSL .htaccess, you need to prevent Really Simple SSL from rewriting it. Enabling this option will do that."
+msgstr "Εάν θέλετε να τροποποιήσετε το Really Simple SSL .htaccess, πρέπει να αποτρέψετε το Really Simple SSL από το να γράψει ξανά σε αυτό. Αυτό γίνεται με την ενεργοποίηση αυτής της επιλογής."
+
+#: class-admin.php:2886
+msgid "HTTP Strict Transport Security was enabled."
+msgstr "Το HTTP Strict Transport Security ενεργοποιήθηκε."
+
+#: class-multisite.php:548 class-multisite.php:576
+msgid "You can also let the automatic scan of the pro version handle this for you, and get premium support and increased security with HSTS included."
+msgstr "Μπορείτε επίσης να αφήσετε την αυτόματη σάρωση της έκδοσης Pro να το αναλάβει αυτό για εσάς, και να αποκτήσετε επίσης υποστήριξη με προτεραιότητα και αυξημένη ασφάλεια με HSTS."
+
+#: class-multisite.php:230 class-admin.php:4085
+msgid "Premium Support"
+msgstr "Premium Υποστήριξη"
+
+#: class-multisite.php:550 class-multisite.php:578
+msgid "Check out Really Simple SSL Premium"
+msgstr "Ρίξτε μια ματιά στο Really Simple SSL Premium"
+
+#: class-admin.php:663
+msgid "Go ahead, activate SSL!"
+msgstr "Πάμε, ενεργοποιήστε το SSL!"
+
+#: class-multisite.php:130
+msgid "SSL is not enabled yet"
+msgstr "Το SSL δεν έχει ενεργοποιηθεί ακόμα"
+
+#: class-admin.php:2725
+msgid "SSL is enabled on your site."
+msgstr "Το SSL είναι ενεργοποιημένο στον ιστότοπό σας."
+
+#: class-admin.php:2219
+msgid "Because your server does not pass a variable with which WordPress can detect SSL, WordPress may create redirect loops on SSL."
+msgstr "Επειδή ο διακομιστής σας δεν επιστρέφει κάποια μεταβλητή με την οποία το WordPress μπορεί να εντοπίσει το SSL, το WordPress ίσως δημιουργήσει βρόχους ανακατευθύνσεων στο SSL."
+
+#: class-admin.php:2213
+msgid "Or set your wp-config.php to writable and reload this page."
+msgstr "Ή παραχωρήστε δικαιώματα εγγραφής στο αρχείο σας wp-config.php και επαναφορτώστε αυτή τη σελίδα."
+
+#: class-admin.php:2196
+msgid "Your wp-config.php has to be edited, but is not writable."
+msgstr "Απαιτείται τροποποίηση του αρχείου σας wp-config.php, αλλά δεν έχει δικαιώματα εγγραφής."
+
+#: class-multisite.php:558
+msgid "Activate SSL per site"
+msgstr "Ενεργοποίηση SSL ανά ιστότοπο"
+
+#: class-multisite.php:555
+msgid "Activate SSL networkwide"
+msgstr "Ενεργοποίηση SSL σε όλο το δίκτυο"
+
+#: class-admin.php:2193 class-admin.php:2220
+msgid "Set your wp-config.php to writable and reload this page."
+msgstr "Δώστε τα απαραίτητα δικαιώματα εγγραφής στο wp-config.php και επαναφορτώστε αυτή τη σελίδα."
+
+#: class-admin.php:2191
+msgid "A definition of a siteurl or homeurl was detected in your wp-config.php, but the file is not writable."
+msgstr "Εντοπίστηκε ορισμός του siteurl ή του homeurl στο wp-config.php σας, αλλά το αρχείο δεν έχει δικαιώματα εγγραφής."
+
+#: class-admin.php:2226
+msgid "System detection encountered issues"
+msgstr "Προέκυψαν προβλήματα με τον εντοπισμό συστήματος"
+
+#: class-multisite.php:546
+msgid "Images, stylesheets or scripts from a domain without an SSL certificate: remove them or move to your own server."
+msgstr "Εικόνες, αρχεία στυλ (css) ή αρχεία εντολών από domain χωρίς πιστοποιητικό SSL: αφαιρέστε τα ή μεταφέρετέ τα στον δικό σας διακομιστή."
+
+#: class-multisite.php:543
+msgid "Some things can't be done automatically. Before you migrate, please check for: "
+msgstr "Κάποια πράγματα δεν μπορούν να γίνουν αυτόματα. Πριν τη μετατροπή, παρακαλούμε ελέγξτε τα εξής:"
+
+#: class-admin.php:487
+msgid "Almost ready to migrate to SSL!"
+msgstr "Σχεδόν έτοιμοι για μετατροπή σε SSL!"
+
+#: class-multisite.php:561
+msgid "Networkwide activation does not check if a site has an SSL certificate. It just migrates all sites to SSL."
+msgstr "Η ενεργοποίηση όλου του δικτύου δεν ελέγχει εάν ένας ιστότοπος έχει πιστοποιητικό SSL. Απλώς μετατρέπει όλους τους ιστότοπους σε SSL."
+
+#: class-admin.php:2197
+msgid "Because your site is behind a loadbalancer and is_ssl() returns false, you should add the following line of code to your wp-config.php."
+msgstr "Καθώς ο ιστότοπός σας βρίσκεται πίσω από loadbalancer και το is_ssl() επιστρέφει «false», θα πρέπει να προσθέσετε την ακόλουθη γραμμή κώδικα στο wp-config.php σας."
+
+#: class-cache.php:10 class-help.php:9 class-multisite.php:27
+#: class-front-end.php:18 class-admin.php:49 class-server.php:10
+#: class-site-health.php:12 class-mixed-content-fixer.php:13
+#: class-certificate.php:14
+msgid "%s is a singleton class and you cannot create a second instance."
+msgstr "Η κλάση %s είναι singleton και δεν μπορείτε να δημιουργήσετε δεύτερο στιγμιότυπό της."
+
+#: class-admin.php:3846
+msgid ".htaccess is currently not writable."
+msgstr "Το .htaccess δεν έχει δικαιώματα εγγραφής."
+
+#: grid/templates/tips-tricks-footer.php:3 class-multisite.php:441
+#: class-admin.php:2585
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#. Description of the plugin
+msgid "Lightweight plugin without any setup to make your site SSL proof"
+msgstr "Ελαφρύ πρόσθετο χωρίς ανάγκη ρυθμίσεων για να κάνετε τον ιστότοπό σας ασφαλή με SSL"
+
+#. Plugin Name of the plugin
+msgid "Really Simple SSL"
+msgstr "Really Simple SSL"
+
+#: class-admin.php:3664
+msgid "Stop editing the .htaccess file"
+msgstr "Διακοπή τροποποίησης του αρχείου .htaccess"
+
+#: grid/templates/settings-footer.php:3
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: class-admin.php:2750
+msgid "An SSL certificate was detected on your site."
+msgstr "Εντοπίστηκε πιστοποιητικό SSL στον ιστότοπό σας."
+
+#: class-admin.php:3647
+msgid "Mixed content fixer"
+msgstr "Επιδιόρθωση μικτού περιεχομένου"
+
+#: class-multisite.php:224 class-multisite.php:335 class-multisite.php:382
+#: class-admin.php:2530 class-admin.php:3264 class-admin.php:3644
+#: class-admin.php:4079
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: class-admin.php:2508
+msgid "SSL"
+msgstr "SSL"
+
+#: class-admin.php:2507
+msgid "SSL settings"
+msgstr "Ρυθμίσεις SSL"
+
+#: class-admin.php:2664
+msgid "Major security issue!"
+msgstr "Μεγάλο κενό ασφαλείας!"
+
+#: class-admin.php:2666
+msgid "Check again"
+msgstr "Επανέλεγχος"
+
+#: class-multisite.php:145
+msgid "Because the $_SERVER[\"HTTPS\"] variable is not set, your website may experience redirect loops."
+msgstr "Καθώς δεν έχει οριστεί η μεταβλητή $_SERVER[\"HTTPS\"], μπορεί να προκύψουν προβλήματα βρόχων ανακατευθύνσεων στην ιστοσελίδα σας."
+
+#: class-multisite.php:146
+msgid "Activate networkwide to fix this."
+msgstr "Ενεργοποιήστε το σε όλο το δίκτυο για να επιλυθεί."
+
+#: class-multisite.php:144
+msgid "You run a Multisite installation with subfolders, which prevents this plugin from fixing your missing server variable in the wp-config.php."
+msgstr "Έχετε μια εγκατάσταση πολλαπλών ιστότοπων με υποφακέλους, το οποίο αποτρέπει αυτό το πρόσθετο να επιδιορθώσει την ελλιπή μεταβλητή διακομιστή στο wp-config.php."

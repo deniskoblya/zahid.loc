@@ -1,0 +1,1 @@
+jQuery.fn.prettyPhoto=function(){return this;};jQuery.fn.fancybox=function(){return this;};jQuery.fn.fancyZoom=function(){return this;};jQuery.fn.colorbox=function(){return this;};jQuery.fn.magnificPopup=function(){return this;};jQuery.fn.FooBox=function(){return this;};

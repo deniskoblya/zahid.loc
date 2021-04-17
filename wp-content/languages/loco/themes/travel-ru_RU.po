@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Travel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-25 09:48+0000\n"
+"PO-Revision-Date: 2019-11-25 09:53+0000\n"
+"Last-Translator: admin-dev <web.wp.dev.eloper@gmail.com>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.4"
+
+#: functions.php:45
+msgid "Top menu"
+msgstr "Главное меню"
+
+#: functions.php:46
+msgid "Bottom menu"
+msgstr "Нижнее меню"
+
+#: functions.php:62
+msgid "Room"
+msgstr "Комната"
+
+#: functions.php:70
+msgid "New"
+msgstr "Новости"
+
+#: functions.php:83
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "на"
+
+#: functions.php:141
+msgid "Children"
+msgstr "Дети"
+
+#: functions.php:142
+msgid "Adults"
+msgstr "Взрослые"
+
+#: functions.php:184
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: functions.php:195
+msgid "Next"
+msgstr "Следующий"
+
+#: functions.php:207 functions.php:208
+msgid "Theme Options"
+msgstr "Параметры темы"
+
+#: functions.php:261
+msgid "Please select number"
+msgstr "Выберите номер"
+
+#: functions.php:352 rating.php:26 rating.php:46
+#, php-format
+msgid "%s vote"
+msgid_plural "%s votes"
+msgstr[0] "%s голос"
+msgstr[1] "%s голоса"
+msgstr[2] "%s голосов"
+
+#: functions.php:782 page.php:82 page.php:100 single-room.php:76
+msgid "Book now"
+msgstr "ЗАБРОНИРОВАТЬ"
+
+# sidebar.php:87
+#: sidebar.php:86
+msgid "Category"
+msgstr "Категории блога"
+
+#: sidebar.php:160 sidebar-mobile.php:34
+msgid "Go to section"
+msgstr "ПЕРЕЙТИ В РАЗДЕЛ"
+
+#. Name of the template
+msgid "Main Template AJAX"
+msgstr ""
+
+#. Name of the template
+msgid "Institution Page"
+msgstr "Institution Page"
+
+#: page-institution.php:51
+msgid "book now"
+msgstr "Забронировать"
+
+#. Name of the template
+msgid "Contact Page"
+msgstr "Contact Page"
+
+#: page.php:110 page-main.php:86
+msgid "More"
+msgstr "ПОКАЗАТЬ ЕЩЕ"
+
+#. Name of the template
+msgid "News"
+msgstr ""
+
+#. Name of the template
+msgid "Main Template Page"
+msgstr ""
+
+#: old-page.php:108
+msgid "To book"
+msgstr "Бронировать"
+
+#: old-page.php:222
+msgid "Point of departure"
+msgstr "Точка отправления"
+
+#: old-page.php:309
+msgid "Lifecell"
+msgstr "Lifecell"
+
+#: old-page.php:315
+msgid "Kievstar"
+msgstr "Kievstar"
+
+#: old-page.php:321
+msgid "Vodafone"
+msgstr "Vodafone"
+
+#: old-page.php:327
+msgid "Phone"
+msgstr "Телефон"
+
+#: old-page.php:333
+msgid "Skype"
+msgstr "Skype"
+
+#: old-page.php:339
+msgid "Email"
+msgstr "Email"
+
+#: single.php:22
+msgid "Content:"
+msgstr "СОДЕРЖАНИЕ:"
+
+#. Name of the template
+msgid "Privacy"
+msgstr "Privacy"
+
+#: index.php:85
+#, php-format
+msgid "Search Results for %s"
+msgstr "Результаты поиска для %s"
+
+#: single-room.php:39
+msgid "Watch the video"
+msgstr "Смотреть видео"
+
+#: single-room.php:279
+msgid "Основні місця:"
+msgstr "Основные места:"
+
+#: single-room.php:282
+msgid "Додаткові місця:"
+msgstr "Дополнительные места:"
+
+#: single-room.php:285
+msgid "Кімнати:"
+msgstr "Комнаты:"
+
+#: single-room.php:288
+msgid "Комплектація номера:"
+msgstr "Комплектация номера:"
+
+#: single-room.php:291
+msgid "Санвузол:"
+msgstr "Санузел:"
+
+#: single-room.php:294
+msgid "Балкон:"
+msgstr "Балкон:"
+
+#: single-room.php:297
+msgid "Площа номера:"
+msgstr "Площадь номера:"
+
+#: single-room.php:300
+msgid "Примітка"
+msgstr "Примечание"
+
+#: template-parts/popups.php:9 template-parts/popups.php:56
+msgid "Thank!"
+msgstr "Спасибо!"
+
+#: template-parts/popups.php:11
+msgid "The application is being processed. We will contact you shortly"
+msgstr "Заявка обрабатывается. Мы скоро с Вами свяжемся"
+
+#: template-parts/popups.php:58
+msgid "Check your Inbox or Spam for a message containing a confirmation link."
+msgstr ""
+"Проверьте свой почтовый ящик или спам на наличие сообщения, содержащего "
+"ссылку для подтверждения."
+
+#: template-parts/social.php:9 template-parts/social.php:10
+msgid "Facebook"
+msgstr "Facebook"
+
+#: template-parts/social.php:15 template-parts/social.php:16
+msgid "Twitter"
+msgstr "Twitter"
+
+#: template-parts/social.php:21 template-parts/social.php:22
+msgid "Google+"
+msgstr "Google+"
+
+#: template-parts/social.php:27 template-parts/social.php:28
+msgid "Youtube"
+msgstr "Youtube"
+
+#: template-parts/social.php:33 template-parts/social.php:34
+msgid "Instagram"
+msgstr "Instagram"
+
+#: functions/schema.php:316
+msgid "Carpathians"
+msgstr "Карпаты"
+
+#: functions/schema.php:318
+msgid "Ukraine"
+msgstr "Украина"
+
+#: functions/schema.php:328
+#, php-format
+msgid "%s ratings, average: %s out of 5"
+msgstr "%s оценок, в среднем: %s из 5"
+
+#. Name of the theme
+msgid "Travel"
+msgstr "Travel"
+
+#. Author of the theme
+msgid "Аноним"
+msgstr "Аноним"

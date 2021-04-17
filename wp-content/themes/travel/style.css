@@ -1,0 +1,639 @@
+/*   
+Theme Name: Travel
+Text Domain: travel
+Version: 1.0
+*/
+
+nav ul ul,
+.bottom ul ul {
+	display: none;
+}
+
+.ewd-ulb-slide-img{
+        display: -webkit-box!important;
+        display: -ms-flexbox!important;
+        display: flex!important;
+    text-align: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+
+.fooboxs{
+        height: 100%!important;
+}
+
+.ewd-ulb-slide-control{
+    padding-top: 0!important;
+    display:-webkit-box;
+    display:-ms-flexbox;
+    display:flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+
+.relative{
+    position: relative;
+    padding-top: 37px;
+}
+
+.flex-d{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+}
+
+main{
+    position: static!important;
+        
+}
+
+.disabled .stars a {
+	pointer-events: none;
+}
+
+.legend {
+	margin-left: 0px;
+}
+
+.comment-form input[type="submit"] {
+	display: none;
+}
+
+.admin-bar header {
+	top: 32px;
+}
+
+.button-close span {
+	left: 6px;
+}
+
+.vote-block {
+	margin: 0;
+}
+
+@media (max-width: 767px) {
+	.custom-menu .custom-menu-title:not(:first-child) {
+		margin-top: 5px;
+	}
+
+	.messengers a {
+		width: 25px;
+		height: 25px;
+	}
+
+	#searchCalendar {
+		float: left;
+		width: 100%;
+		margin-bottom: 10px;
+	}
+}
+
+.swiper-control-bottom .swiper-slide {
+	cursor: pointer !important;
+}
+
+.safari .item-info .row {
+	display: block;
+}
+
+body.single-room .swipers-wrapper .swiper-control-top .img-box.contain {
+	background-size: contain;
+}
+
+body.error404 .sidebar-wrap .sidebar,
+body.error404 .blog-sidebar.only-desktop {
+	padding-top: 14px;
+	padding-bottom: 14px;
+}
+
+@media (min-width: 768px) {
+	body.error404 .sidebar-wrap+.empty-lg-70 {
+		height: 30px;
+	}
+}
+
+div.wpcf7 .ajax-loader {
+	position: absolute;
+	margin: 0;
+	right: -21px;
+}
+
+div.wpcf7-response-output {
+	margin: 20px 0 0;
+	font-size: 12px;
+	padding: 5px;
+}
+
+span.wpcf7-not-valid-tip {
+	font-size: 12px;
+	text-align: left;
+	padding: 3px 10px 0;
+}
+
+.proposal-item:not(.blog-item) .h5 {
+	line-height: 20px;
+}
+
+.proposal-item:not(.blog-item) .text-block {
+	padding: 14px 15px 10px;
+	min-height: 69px;
+}
+
+.video-button {
+	font-size: 11px;
+	padding: 2px 7px;
+	border-radius: 5px;
+	z-index: 1;
+}
+
+.wpcf7 .wpcf7-form.form label:not(.hide-pl)>i {
+	opacity: 1;
+}
+
+.wpcf7 .wpcf7-form.form label>i.hide-pl {
+	opacity: 0;
+}
+
+.wpcf7-response-output,
+span.wpcf7-not-valid-tip {
+	display: none !important;
+}
+
+.wpcf7-not-valid,
+.wpcf7-not-valid+.SelectBox {
+	border-color: #f94415 !important;
+}
+
+.month-wrapper table {
+	display: table;
+}
+
+.month-wrapper table thead th {
+	background: inherit;
+	border: none;
+}
+
+.month-wrapper table thead {
+	color: #aaa;
+}
+
+.month-wrapper table tbody td {
+	border: none;
+}
+
+.date-picker-wrapper .month-wrapper table .day.real-today {
+	background: #5cb458 !important;
+}
+
+.simple-text strong {
+	font-weight: 700;
+}
+
+.price-tab-info table tr:first-child {
+	background: #b2dfb2;
+	font-weight: 700;
+}
+
+.price-tab-info table td {
+	padding: 5px;
+	text-align: center;
+	line-height: 19px;
+}
+
+.price-tab-info table td:first-child {
+	text-align: initial;
+}
+
+.item-info {
+	padding: 8px 15px 13px 15px;
+	border-radius: 7px;
+	background-color: #fff;
+	margin-left: -10px;
+}
+
+.nav-tab-item .h6 {
+	pointer-events: none
+}
+
+.sanatorium-item.type-2 .img-box {
+	padding-top: 75%;
+}
+
+.sanatorium-item.type-2 .text-block {
+	padding: 0px 15px 20px;
+}
+
+.sanatorium-item.type-2 .button {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+@-webkit-keyframes loopRorate {
+	0% {
+		-webkit-transform: translate(-50%, -50%) rotate(0);
+		        transform: translate(-50%, -50%) rotate(0)
+	}
+
+	100% {
+		-webkit-transform: translate(-50%, -50%) rotate(360deg);
+		        transform: translate(-50%, -50%) rotate(360deg)
+	}
+}
+
+@keyframes loopRorate {
+	0% {
+		-webkit-transform: translate(-50%, -50%) rotate(0);
+		        transform: translate(-50%, -50%) rotate(0)
+	}
+
+	100% {
+		-webkit-transform: translate(-50%, -50%) rotate(360deg);
+		        transform: translate(-50%, -50%) rotate(360deg)
+	}
+}
+
+#true_loadmore {
+	-webkit-transition: all .25s ease-in-out;
+	transition: all .25s ease-in-out;
+}
+
+#true_loadmore.sanatorium_loading {
+	overflow: hidden;
+	color: transparent
+}
+
+#true_loadmore.sanatorium_loading::before {
+	content: '';
+	display: inline-block;
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	-webkit-animation: loopRorate 2s infinite linear;
+	        animation: loopRorate 2s infinite linear;
+	border: 3px dotted #5cb458;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	z-index: 2;
+	-webkit-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%)
+}
+
+#true_loadmore.sanatorium_loading:hover::before {
+	border-color: #fff;
+}
+
+#content-block {
+	margin-top: 20px
+}
+
+.nav-tab {
+	overflow: hidden;
+	border-radius: 7px;
+}
+
+.contacts>span a {
+	margin-left: 4px;
+}
+
+.breadcrumbs div {
+	display: inline-block;
+}
+
+
+@media(max-width:767px){
+    .sanatorium-item img{
+        height: auto!important;
+        max-height: 415px!important;
+        
+    }.sanatorium-item{
+        max-height: 500px!important;
+        
+    }
+}
+
+.relative .breadcrumbs {
+    position: absolute;
+    top: 0;
+    left:0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0;
+    height: 28px;
+    overflow: hidden;
+}
+
+
+.breadcrumbs {
+	white-space: nowrap;
+}
+
+.breadcrumbs::-webkit-scrollbar-track {
+	-webkit-box-shadow: inset 0 0 6px rgba(255, 255, 255, 0);
+	border-radius: 0;
+	background-color: #f9f9f9;
+}
+
+.breadcrumbs::-webkit-scrollbar {
+	width: 0;
+	background-color: #f9f9f9;
+}
+
+.breadcrumbs::-webkit-scrollbar-thumb {
+	border-radius: 0;
+	-webkit-box-shadow: inset 0 0 6px rgba(255, 255, 255, 0);
+	background-color: #f9f9f9;
+}
+
+/*.breadcrumbs_page_block{padding: 21px 0;}*/
+/*.breadcrumbs_page_block > div{margin-top: 0;position: absolute;top: 0;width: 200%;max-width: max-content;}*/
+.breadcrumbs_page_block>div {
+	margin-top: 0;
+	white-space: nowrap;
+	z-index: 1
+}
+
+.container-main-page {
+	padding-top: 20px;
+}
+
+.single-room-slider-img {
+	margin-left: 50%;
+	-webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
+	max-width: 100%;
+}
+
+.single_room_address {
+	padding-left: 20px;
+}
+
+@media (min-width: 1200px) {
+
+	.related-sanatoriums .swiper-button-prev,
+	.related-sanatoriums .swiper-button-next {
+		margin-top: -40px;
+	}
+
+	.accordeon-title:hover span:not(.h5):after {
+		top: 7px;
+		height: 16px;
+	}
+
+	.accordeon-title:hover span:not(.h5) {
+		background-color: #5cb458;
+	}
+
+	.accordeon-title.active:hover span:not(.h5) {
+		background-color: #ffa22a;
+	}
+
+	.accordeon-title.active:hover span:not(.h5):after {
+		top: 13px;
+		height: 4px;
+	}
+}
+
+@media (max-width: 1199px) {
+	.item-info {
+		margin-left: 0;
+		padding: 18px 20px;
+	}
+
+	.single_room_address {
+		padding-left: 0;
+	}
+}
+
+@media (max-width: 991px) {
+	.price-tab-info table td {
+		line-height: 15px;
+		font-size: 11px;
+	}
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+
+	.related-sanatoriums .swiper-button-prev,
+	.related-sanatoriums .swiper-button-next {
+		margin-top: -60px;
+	}
+
+	.simple-slider>span:nth-of-type(3),
+	.simple-slider>span:nth-of-type(4) {
+		bottom: 93px;
+	}
+}
+
+@media (max-width: 767px) {
+	.item-info {
+		padding: 5px 20px 18px;
+	}
+
+	.simple-text ul li {
+		line-height: 1.4;
+		margin-bottom: 6px;
+	}
+
+	.simple-text ul li a {
+		font-size: 12px
+	}
+
+	.container-main-page {
+		padding-top: 0;
+	}
+
+	.breadcrumbs ol {
+		margin: 9px 0 12px;
+		line-height: 20px;
+		overflow: auto;
+        
+	}
+    
+    .breadcrumbs ol:-webkit-scrollbar {
+  height: 0!important;
+}
+
+	.breadcrumbs_page_block>div {
+		margin-top: 9px;
+	}
+
+	.breadcrumbs span {
+		margin: 0 4px;
+	}
+
+	.breadcrumbs a,
+	.breadcrumbs span {
+		font-size: 13px;
+	}
+
+	.custom-menu-title a {
+		padding: 4px 10px;
+	}
+
+	.custom-menu .simple-text {
+		padding: 10px 10px 5px;
+	}
+
+	body.single-room .swipers-wrapper:not(.gallery) {
+		margin-bottom: 20px;
+	}
+
+	body.single-room .item-info .contacts:not(.info) .icon {
+		width: 16px;
+		height: 16px;
+	}
+
+	body.single-room .item-info .contacts:not(.info)>span {
+		margin-bottom: 10px;
+	}
+
+	body.single-room .item-info .contacts:not(.info) a {
+		font-size: 14px;
+	}
+
+	body.single-room .swipers-wrapper:not(.gallery) .swiper-button-prev {
+		left: 0;
+	}
+
+	body.single-room .swipers-wrapper:not(.gallery) .swiper-button-next {
+		right: 0;
+	}
+
+	body.single-room .items-slider .swiper-pagination {
+		display: none;
+	}
+
+	.sl-wrapper .sl-image {
+		padding: 0 5px;
+	}
+
+	.price-tab:last-child {
+		margin-right: 15px;
+	}
+
+	.price-tab-info table td {
+		padding: 2px;
+		font-size: 10px;
+	}
+
+	.related-sanatoriums .swiper-button-prev,
+	.related-sanatoriums .swiper-button-next {
+		display: none;
+	}
+
+	.item-info .row>div:first-child {
+		border: none;
+	}
+}
+
+@media (max-width: 480px) {
+	.price-tab-info table td {
+		font-size: 9px;
+	}
+}
+
+.single-room .white-box .simple-text table {
+	height: auto !important
+}
+
+@media(max-width: 992px) {
+	.single-room .white-box .simple-text table {
+		overflow-x: scroll;
+	}
+}
+
+.single-room .tabs-content table th {
+	border: 1px solid #e9e9e9;
+	background-color: #b2dfb2;
+	padding: 12px 11px;
+}
+
+.single-room .tabs-content table tbody {
+	width: 100%;
+	display: table;
+}
+
+.single-room .tabs-content table {
+	width: auto !important;
+	overflow-x: auto;
+}
+
+.single-room .tabs-content table td {
+	padding: 12px 11px;
+}
+
+.white-box .nav-tab .nav-tab-item.active {
+	border-color: #fdbc02;
+	background-color: #fdbc02;
+	color: #FFF;
+}
+
+.white-box .nav-tab .nav-tab-item {
+	margin: 0 20px 0;
+	text-transform: uppercase;
+	font-weight: 500;
+	color:#7d849d;
+	border: 1px solid #e9e9e9;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+}
+.white-box .nav-tab .nav-tab-item:hover{
+	color: #FFF;
+	border-color: #fdbc02;				
+	background-color: #fdbc02;
+}
+
+
+
+
+
+/*add tel number*/
+.tel-dropdown-room.tel-dropdown {
+	position: relative;
+	top: auto;
+	right: auto;
+	padding: 15px 0 5px;
+	background-color: transparent;
+	-webkit-box-shadow: none;
+	        box-shadow: none;
+	z-index: 2;
+}
+
+.tel-dropdown-room.tel-dropdown>span:not(.button) {
+	margin: 0 0 10px;
+}
+
+.tel-dropdown-room.tel-dropdown .contacts {
+	margin-bottom: 0;
+}
+.tab-info #faq .accordeon-title{
+	background: #f9f9f9;
+}
+
+.single-room .contacts .icon,
+.single-room .room-info .icon {
+	background-size: contain;
+}
+
+*{-webkit-locale: auto;}
+@media(max-width:767px){
+	body table tr th,body table tr th *{font-size:12px;}
+	body table tr td,body table tr td *{font-size:9px;}
+}
